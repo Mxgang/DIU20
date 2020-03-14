@@ -28,11 +28,11 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Darío Noxus",
+				Name: "Darío Sanabria",
 				Photo: "man.png",
 				Quote: "¡Luchen, sangren, no cedan ante la debilidad",
 				Age: 40,
-				Occupation: "Abogado",
+				Occupation: "Abogado de familia",
 				Family: "Casado desde hace 15 años y con 1 hijo de 10 años",
 				Location: "Granada (Armilla)",
 				Character: "Amable, empático, familiar y tradicional. Se frustra con facilidad con la tecnología, odia la política", 
@@ -43,7 +43,7 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
 				Goals: ["Ir al gimnasio a ponerse fuerte", "Visitar el mayor número de países del mundo", "Probar nuevos platos cada mes", "Comprarse un Tesla", "Que su hijo siga sus pasos como abogado, pero respetará si decide estudiar otra cosa"],
-				Frustrations: ["Se lleva mal con la tecnología", "Odia perder casos en juicios", "Pierde los nervios con el tráfico", "Pocos días libres al mes por culpa del trabajo", "Suele perderse los eventos escolares de su hijo"],
+				Frustrations: ["Se lleva mal con la tecnología", "Odia perder casos en juicios", "Pierde los nervios con el tráfico", "Suele perderse los eventos escolares de su hijo"],
 				Bio: "Nació en Armilla, desde siempre quiso ser Abogado, sueño que cumplió al terminar la carrera de Derecho, buscó una casa cerca de la casa de sus padres en Armilla para poder tenerlos cerca. Su mujer actual la conoció en la carrera y tienen un hijo en común de 10 años. Le gusta viajar a distintos países y probar la comida típica de dicho país",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
@@ -52,7 +52,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "Próximamente tendrá varios días libres, quiere aprovecharlos para viajar a alguna ciudad para visitarla y degustar comida típica",  
+                Contextos: "Próximamente tendrá varios días libres que le corresponden del trabajo, quiere aprovecharlos para viajar a alguna ciudad para visitarla y degustar comida típica",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 5 },
 					{ Name: "Online & Social Media", Value: 2 },
