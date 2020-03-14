@@ -24,7 +24,7 @@ Se ha escogido a Anabel porque representa el perfil de un usuario joven y hábil
 # Journey Map:
 Se ha escogido un caso esporádico en el caso de Darío el cual tiene problemas al manejar un ordenador y un caso programado  por parte de Anabel la cual tiene experiencia para poder analizar en ambos casos la experiencia del usuario.
 
-## Darío
+## Darío[Darío](Persona.js)
 
 ![Método UX](photos/JourneyMapDario.png)
 
