@@ -34,4 +34,13 @@ Se ha escogido un caso esporádico en el caso de Darío el cual tiene problemas 
 
 # Usability review
 
+Enlace al excel: https://github.com/Mxgang/DIU20/blob/master/P1/Usability-review-template.xls
+Enlace al PDF: https://github.com/Mxgang/DIU20/blob/master/P1/Usability-review-template.pdf
+Puntuación final: 78
+
 La aplicación en cuanto a funcionalidad es correcta. El registro, las búsquedas y otras funciones son sencillas y fáciles de entender. En cuanto al aspecto visual, la página contiene demasiado contenido concentrado y en muchas ocasiones incluso innecesario. Otros aspectos extras como el cambio de idioma y moneda puede ser de de utilidad, el problema es que en la sección de ayuda no está traducido.
+
+Los aspectos más graves son:
+1. Vídeo en bucle en la página principal, es demasiado grande y provoca latencia, distracción y malestar.
+2. Sección de ayuda no está traducido
+3. Las búsquedas tienen pocos filtros y es todo muy genérico a la hora de buscar.
