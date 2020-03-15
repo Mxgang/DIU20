@@ -5,13 +5,13 @@
 
 Las aplicaciones de compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos. Se han seleccionado varias aplicaciones, de entre ellas facebook, meetup, emycet, artery, eatwith,... 
 
-| Aplicación      | Uso | Android  | caracteristica | caracteristica | caracteristica | caracteristica |
-| :---        |    :----:   |   :----: | :----: | :----: | :----: | :----: |
-| Facebook      | Dato       | Dato   | Dato       | Dato   | Dato       | Dato   |
-| Meetup   | Text        | And more      | Dato       | Dato   | Dato       | Dato   |
-| Emycet   | Text        | And more      | Dato       | Dato   | Dato       | Dato   |
-| Artery   | Text        | And more      | Dato       | Dato   | Dato       | Dato   |
-| Eatwith   | Text        | And more      | Dato       | Dato   | Dato       | Dato   |
+| Aplicación  | Uso       | Android  | caracteristica | caracteristica | caracteristica | caracteristica |
+| :---        |    :----: |   :----: | :----: | :----: | :----: | :----: |
+| Facebook    | Gratuito  | Sí       | Dato       | Dato   | Dato       | Dato   |
+| Meetup      | Gratuito  | Sí       | Dato       | Dato   | Dato       | Dato   |
+| Emycet      | Gratuito  | No       | Dato       | Dato   | Dato       | Dato   |
+| Artery      | Gratuito  | No       | Dato       | Dato   | Dato       | Dato   |
+| Eatwith     | Gratuito  | Sí       | Dato       | Dato   | Dato       | Dato   |
 
 
 
