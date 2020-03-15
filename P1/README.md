@@ -3,7 +3,19 @@
 
 # Análisis competitivo:
 
-Las aplicaciones de compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos. Se han seleccionado varias aplicaciones, de entre ellas facebook, meetup, emycet, artery, eatwith,... Finalmente se ha seleccionado eatwith por varios motivos:
+Las aplicaciones de compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos. Se han seleccionado varias aplicaciones, de entre ellas facebook, meetup, emycet, artery, eatwith,... 
+
+| Aplicación      | Uso | Android  | caracteristica | caracteristica | caracteristica | caracteristica |
+| :---        |    :----:   |   :----: | :----: | :----: | :----: | :----: |
+| Facebook      | Dato       | Dato   | Dato       | Dato   | Dato       | Dato   |
+| Meetup   | Text        | And more      | Dato       | Dato   | Dato       | Dato   |
+| Emycet   | Text        | And more      | Dato       | Dato   | Dato       | Dato   |
+| Artery   | Text        | And more      | Dato       | Dato   | Dato       | Dato   |
+| Eatwith   | Text        | And more      | Dato       | Dato   | Dato       | Dato   |
+
+
+
+Finalmente se ha seleccionado eatwith por varios motivos:
     No es tan conocido como otras aplicaciones como Facebook o Meetup.
     Ni es muy general ni muy específico, se centra en experiencias sobre la comida, pero no se centra únicamente en comer, también tiene experiencias cocinando.
     A simple vista se han detectado posibles mejoras en el diseño de la página.
