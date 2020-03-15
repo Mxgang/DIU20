@@ -3,22 +3,22 @@
 
 # Análisis competitivo:
 
-Las aplicaciones de compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos. Se han seleccionado varias aplicaciones, de entre ellas facebook, meetup, emycet, artery, eatwith,... 
+Las aplicaciones de compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos. Se han seleccionado varias aplicaciones, de entre ellas facebook, meetup, emycet, artery, eatwith.
 
-| Aplicación  | Uso       | Android  | Actividad  | caracteristica | caracteristica | caracteristica |
-| :---        |    :----: |   :----: | :----: | :----: | :----: | :----: |
-| Facebook    | Gratuito  | Sí       | General    | Dato   | Dato       | Dato   |
-| Meetup      | Gratuito  | Sí       | General    | Dato   | Dato       | Dato   |
-| Emycet      | Gratuito  | No       | Específica | Dato   | Dato       | Dato   |
-| Artery      | Gratuito  | No       | Específica | Dato   | Dato       | Dato   |
-| Eatwith     | Gratuito  | Sí       | Específica | Dato   | Dato       | Dato   |
+| Aplicación  | Uso       | Android  | Actividad  | Popularidad | caracteristica | caracteristica |
+| :---        |    :----: |   :----: | :----:     | :----:      | :----: | :----: |
+| Facebook    | Gratuito  | Sí       | General    | Alta        | Dato       | Dato   |
+| Meetup      | Gratuito  | Sí       | General    | Alta        | Dato       | Dato   |
+| Emycet      | Gratuito  | No       | Específica | Media       | Dato       | Dato   |
+| Artery      | Gratuito  | No       | Específica | Baja        | Dato       | Dato   |
+| Eatwith     | Gratuito  | Sí       | Específica | Media-baja  | Dato       | Dato   |
 
 
 
 Finalmente se ha seleccionado eatwith por varios motivos:
-    No es tan conocido como otras aplicaciones como Facebook o Meetup.
-    Ni es muy general ni muy específico, se centra en experiencias sobre la comida, pero no se centra únicamente en comer, también tiene experiencias cocinando.
-    A simple vista se han detectado posibles mejoras en el diseño de la página.
+    ### No es tan conocido como otras aplicaciones como Facebook o Meetup.
+    ### Aunque se centra en actividades específicas, se centra en experiencias sobre la comida, no se centra únicamente en comer, también tiene experiencias cocinando o en tours de comida(lo que puede incluir un pequeño programa turístico).
+    ### A simple vista se han detectado posibles mejoras en el diseño de la página.
    
 La aplicación eatwith proporciona experiencias culinarias, de entre ellas comidas privadas, tours y clases de cocina.
 
