@@ -12,23 +12,23 @@ La aplicación eatwith proporciona experiencias culinarias, de entre ellas comid
 
 # Análisis personal:
 
-## [Darío](indexP.html)
+## [Darío](https://Pmarting97.github.io/indexP.html)
 Se ha escogido a Darío debido a tener el perfil de un usuario maduro pero torpe con la tecnología. Le gusta viajar, desde siempre lo hizo a través de agencias de viajes pero hace poco descubrió que por Internet le puede salir más barato, el problema es su poca experiencia con los ordenadores.
 ![Método UX](photos/UserDario.png)
 
 
-## [Anabel](indexP.html)
+## [Anabel](https://Pmarting97.github.io/indexP.html)
 Se ha escogido a Anabel porque representa el perfil de un usuario joven y hábil con la tecnología, al contrario que ocurre con Darío, un usuario que se frustra muy fácilmente con la tecnologa. También se ha escogido debido a su comportamiento mas excéntrico y alocado.
 ![Método UX](photos/UserAnabel.png)
 
 # Journey Map:
 Se ha escogido un caso esporádico en el caso de Darío el cual tiene problemas al manejar un ordenador y un caso programado  por parte de Anabel la cual tiene experiencia para poder analizar en ambos casos la experiencia del usuario.
 
-## [Darío](indexJ.html)
+## [Darío](https://Pmarting97.github.io/indexJ.html)
 
 ![Método UX](photos/JourneyMapDario.png)
 
-## [Anabel](indexJ.html)
+## [Anabel](https://Pmarting97.github.io/indexJ.html)
 
 ![Método UX](photos/JourneyMapAnabel.png)
 
