@@ -10,6 +10,24 @@ Malla receptora de información
 | Gran variedad de experiencias únicas.      | En general existen muchos elementos en cada página que pueden agobiar al usuario, sobre todo a la hora de necesitar hacer scroll, esto hace que no sea accesible.  |  Darío - ¿ Cómo puedo saber si la comida contiene gluten ? Mi mujer es celíaca.     |  UX Engagement - Una mejora en la latencia del sitio web. |              
 | Aplicación para móviles disponible.        | Ciertos elementos no tienen un indicador claro de ser un enlace, por ejemplo el icono a la página principal.  | Anabel - ¿ Puedo compartir mi experiencia en Instagram ? No uso las redes sociales que deja la aplicación.  |  UX Engagement - Conseguir una mayor retención y uso agradable por parte de los usuarios.  |              
 
+
+
+
+| Tareas\Grupo de usuarios | Una persona | Unos amigos | Una persona mayor | grupo 4 |
+| :---                     | :----:  | :----:  | :----:  | :----:  |
+| - Crear cuenta             |   h     |    h    |    h    |    h    |
+| ! Iniciar sesión           |   h     |    h    |    h    |    h    |
+| Buscar experiencia       |   h     |    h    |    h    |    h    |
+| Reservar                 |   h     |    h    |    h    |    h    |
+| Valorar experiencia      |   h     |    h    |    h    |    h    |
+| Anular reserva           |   h     |    h    |    h    |    h    |
+| Compartir experiencia    |   h     |    h    |    h    |    h    |
+
+
+
+
+
+
 ```diff
 - text in red
 + text in green
