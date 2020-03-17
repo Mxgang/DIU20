@@ -15,8 +15,8 @@ Malla receptora de información
 <thead>
 <tr>
   <th>Tareas\Grupo de usuarios</th>
-  <th style="color:grey">Una persona</th>
-  <th style="color:grey">Unos amigos</th>
+  <th style="color: red">Una persona</th>
+  <th style="color: red">Unos amigos</th>
   <th>Una persona Mayor</th>
   <th>Persona con TDAH</th>
 </tr>
@@ -44,7 +44,7 @@ Malla receptora de información
   <td>M</td>
 </tr>
   <tr>
-  <td style="color:grey">Reservar</td>
+  <td style="color: red">Reservar</td>
   <td>M</td>
   <td>H</td>
   <td>L</td>
@@ -58,7 +58,7 @@ Malla receptora de información
   <td>L</td>
 </tr>
   <tr>
-  <td style="color:grey">Anular Reserva</td>
+  <td style="color: red">Anular Reserva</td>
   <td>L</td>
   <td>L</td>
   <td>L</td>
