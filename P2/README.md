@@ -11,16 +11,14 @@ Malla receptora de información
 | Aplicación para móviles disponible.        | Ciertos elementos no tienen un indicador claro de ser un enlace, por ejemplo el icono a la página principal.  | Anabel - ¿ Puedo compartir mi experiencia en Instagram ? No uso las redes sociales que deja la aplicación.  |  UX Engagement - Conseguir una mayor retención y uso agradable por parte de los usuarios.  |              
 
 
-
+```diff
 
 | Tareas\Grupo de usuarios | Una persona | Unos amigos | Una persona mayor | grupo 4 |
 | :---                     | :----:  | :----:  | :----:  | :----:  |
 | Crear cuenta             |   h     |    h    |    h    |    h    |
 | Iniciar sesión           |   h     |    h    |    h    |    h    |
 | Buscar experiencia       |   h     |    h    |    h    |    h    |
-| ```diff 
-# Reservar 
-```  |   h     |    h    |    h    |    h    | 
+| Reservar                 |   h     |    h    |    h    |    h    | 
 | Valorar experiencia      |   h     |    h    |    h    |    h    |
 | Anular reserva           |   h     |    h    |    h    |    h    |
 | Compartir experiencia    |   h     |    h    |    h    |    h    |
@@ -28,13 +26,6 @@ Malla receptora de información
 
 
 
-
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
 ```
 
 
