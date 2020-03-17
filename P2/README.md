@@ -15,7 +15,7 @@ Malla receptora de información
 <thead>
 <tr>
   <th>Tareas\Grupo de usuarios</th>
-  <th style="color: red;">Una persona</th>
+  <th bgcolor="color: red;">Una persona</th>
   <th style="color: red">Unos amigos</th>
   <th>Una persona Mayor</th>
   <th>Persona con TDAH</th>
