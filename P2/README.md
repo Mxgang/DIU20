@@ -12,19 +12,15 @@ Malla receptora de información
 
 
 
-| Tareas\Grupo de usuarios | Una persona | Unos amigos | Una persona mayor | grupo 4 |
+| Tareas\Grupo de usuarios | **Una persona** | **Unos amigos** | Una persona mayor | Persona con TDAH |
 | :---                     | :----:  | :----:  | :----:  | :----:  |
-| Crear cuenta             |   h     |    h    |    h    |    h    |
-| Iniciar sesión           |   h     |    h    |    h    |    h    |
-| Buscar experiencia       |   h     |    h    |    h    |    h    |
-| 
-```diff 
-# Reservar
-```
-|   h     |    h    |    h    |    h    | 
-| Valorar experiencia      |   h     |    h    |    h    |    h    |
-| Anular reserva           |   h     |    h    |    h    |    h    |
-| Compartir experiencia    |   h     |    h    |    h    |    h    |
+| Crear cuenta             |   L     |    L    |    L    |    L    |
+| Iniciar sesión           |   M     |    M    |    M    |    M    |
+| Buscar experiencia       |   H     |    H    |    M    |    M    |
+| **Reservar               |   M     |    H    |    L    |    M    | **
+| Valorar experiencia      |   L     |    M    |    L    |    L    |
+| **Anular reserva         |   L     |    L    |    L    |    L    | **
+| Compartir experiencia    |   L     |    M    |    L    |    L    |
 
 
 
