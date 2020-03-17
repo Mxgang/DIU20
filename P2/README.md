@@ -14,21 +14,62 @@ Malla receptora de información
 <table class="css3">
 <thead>
 <tr>
-  <th>1</th>
-  <th>2</th>
-  <th>3</th>
+  <th>Tareas\Grupo de usuarios</th>
+  <th style="color:grey">Una persona</th>
+  <th style="color:grey">Unos amigos</th>
+  <th>Una persona Mayor</th>
+  <th>Persona con TDAH</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td>4</td>
-  <td>5</td>
-  <td>6</td>
+  <td>Crear cuenta</td>
+  <td>L</td>
+  <td>L</td>
+  <td>L</td>
+  <td>L</td>
 </tr>
 <tr>
-  <td>7</td>
-  <td>8</td>
-  <td>9</td>
+  <td>Iniciar sesión</td>
+  <td>M</td>
+  <td>M</td>
+  <td>M</td>
+  <td>M</td>
+</tr>
+  <tr>
+  <td>Buscar experiencia</td>
+  <td>H</td>
+  <td>H</td>
+  <td>M</td>
+  <td>M</td>
+</tr>
+  <tr>
+  <td style="color:grey">Reservar</td>
+  <td>M</td>
+  <td>H</td>
+  <td>L</td>
+  <td>M</td>
+</tr>
+  <tr>
+  <td>Valorar experiencia</td>
+  <td>L</td>
+  <td>M</td>
+  <td>L</td>
+  <td>L</td>
+</tr>
+  <tr>
+  <td style="color:grey">Anular Reserva</td>
+  <td>L</td>
+  <td>L</td>
+  <td>L</td>
+  <td>L</td>
+</tr>
+  <tr>
+  <td>Compartir experiencia</td>
+  <td>L</td>
+  <td>M</td>
+  <td>L</td>
+  <td>L</td>
 </tr>
 </tbody>
 </table>
