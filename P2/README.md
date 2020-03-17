@@ -18,7 +18,7 @@ Malla receptora de información
 | Crear cuenta             |   h     |    h    |    h    |    h    |
 | Iniciar sesión           |   h     |    h    |    h    |    h    |
 | Buscar experiencia       |   h     |    h    |    h    |    h    |
-```diff # | Reservar                 |   h     |    h    |    h    |    h    | ```
+| ```diff #  Reservar ```  |   h     |    h    |    h    |    h    | 
 | Valorar experiencia      |   h     |    h    |    h    |    h    |
 | Anular reserva           |   h     |    h    |    h    |    h    |
 | Compartir experiencia    |   h     |    h    |    h    |    h    |
