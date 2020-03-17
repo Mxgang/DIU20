@@ -15,10 +15,10 @@ Malla receptora de información
 
 | Tareas\Grupo de usuarios | Una persona | Unos amigos | Una persona mayor | grupo 4 |
 | :---                     | :----:  | :----:  | :----:  | :----:  |
-| - Crear cuenta             |   h     |    h    |    h    |    h    |
-| ! Iniciar sesión           |   h     |    h    |    h    |    h    |
+| Crear cuenta             |   h     |    h    |    h    |    h    |
+| Iniciar sesión           |   h     |    h    |    h    |    h    |
 | Buscar experiencia       |   h     |    h    |    h    |    h    |
-| Reservar                 |   h     |    h    |    h    |    h    |
+```diff # | Reservar                 |   h     |    h    |    h    |    h    | ```
 | Valorar experiencia      |   h     |    h    |    h    |    h    |
 | Anular reserva           |   h     |    h    |    h    |    h    |
 | Compartir experiencia    |   h     |    h    |    h    |    h    |
