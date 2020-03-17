@@ -11,78 +11,14 @@ Malla receptora de información
 | Aplicación para móviles disponible.        | Ciertos elementos no tienen un indicador claro de ser un enlace, por ejemplo el icono a la página principal.  | Anabel - ¿ Puedo compartir mi experiencia en Instagram ? No uso las redes sociales que deja la aplicación.  |  UX Engagement - Conseguir una mayor retención y uso agradable por parte de los usuarios.  |              
 
 
-<table class="css3">
-<thead>
-<tr>
-  <th>Tareas\Grupo de usuarios</th>
-  <th bgcolor="color: red;">Una persona</th>
-  <th style="color: red">Unos amigos</th>
-  <th>Una persona Mayor</th>
-  <th>Persona con TDAH</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>Crear cuenta</td>
-  <td>L</td>
-  <td>L</td>
-  <td>L</td>
-  <td>L</td>
-</tr>
-<tr>
-  <td>Iniciar sesión</td>
-  <td>M</td>
-  <td>M</td>
-  <td>M</td>
-  <td>M</td>
-</tr>
-  <tr>
-  <td>Buscar experiencia</td>
-  <td>H</td>
-  <td>H</td>
-  <td>M</td>
-  <td>M</td>
-</tr>
-  <tr>
-  <td style="color: red">Reservar</td>
-  <td>M</td>
-  <td>H</td>
-  <td>L</td>
-  <td>M</td>
-</tr>
-  <tr>
-  <td>Valorar experiencia</td>
-  <td>L</td>
-  <td>M</td>
-  <td>L</td>
-  <td>L</td>
-</tr>
-  <tr>
-  <td style="color: red">Anular Reserva</td>
-  <td>L</td>
-  <td>L</td>
-  <td>L</td>
-  <td>L</td>
-</tr>
-  <tr>
-  <td>Compartir experiencia</td>
-  <td>L</td>
-  <td>M</td>
-  <td>L</td>
-  <td>L</td>
-</tr>
-</tbody>
-</table>
-
-
-| Tareas\Grupo de usuarios | **Una persona** | **Unos amigos** | Una persona mayor | Persona con TDAH |
+| Tareas\Grupo de usuarios | `Una persona` | `Unos amigos` | Una persona mayor | Persona con TDAH |
 | :---                     | :----:  | :----:  | :----:  | :----:  |
 | Crear cuenta             |   L   |    L    |    L    |    L    |
 | Iniciar sesión           |   M   |    M    |    M    |    M    |
 | Buscar experiencia       |   H   |    H    |    M    |    M    |
-| **Reservar**             |   M   |    H    |    L    |    M    |
+| `Reservar`             |   M   |    H    |    L    |    M    |
 | Valorar experiencia      |   L   |    M    |    L    |    L    |
-| **Anular reserva**       |   L   |    L    |    L    |    L    |
+| `Anular reserva`       |   L   |    L    |    L    |    L    |
 | Compartir experiencia    |   L   |    M    |    L    |    L    |
 
 
