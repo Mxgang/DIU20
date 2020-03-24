@@ -16,10 +16,23 @@ Malla receptora de información
 | Crear cuenta             |   L   |    L    |    L    |    L    |
 | Iniciar sesión           |   M   |    M    |    M    |    M    |
 | Buscar experiencia       |   H   |    H    |    M    |    M    |
-| *`Reservar`*             |   M   |    H    |    L    |    M    |
+| *`Solicitar reserva`*    |   M   |    H    |    L    |    M    |
 | Valorar experiencia      |   L   |    M    |    L    |    L    |
 | *`Anular reserva`*       |   L   |    L    |    L    |    L    |
-| Compartir experiencia    |   L   |    M    |    L    |    L    |
+| Ver mi cuenta            |   L   |    M    |    L    |    L    |
+| Ver reservas             |   L   |    M    |    L    |    L    |
+| Aplicar filtros de búsqueda    |   L   |    M    |    L    |    L    |
+| Seleccionar experiencia  |   L   |    M    |    L    |    L    |
+| Cambiar idioma/divisas   |   L   |    M    |    L    |    L    |
+| Ver mensajes             |   L   |    M    |    L    |    L    |
+| Responder mensaje        |   L   |    M    |    L    |    L    |
+| Pagar                    |   L   |    M    |    L    |    L    |
+| Cambiar datos perfil     |   L   |    M    |    L    |    L    |
+| Ver mi perfil            |   L   |    M    |    L    |    L    |
+| Ver perfil de Host       |   L   |    M    |    L    |    L    |
+| Ver datos de experiencia |   L   |    M    |    L    |    L    |
+| Crear experiencia nueva  |   L   |    M    |    L    |    L    |
+| Convertirse en anfitrión |   L   |    M    |    L    |    L    |
 
 
 
