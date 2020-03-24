@@ -33,6 +33,10 @@ Malla receptora de información
 | Ver datos de experiencia |   L   |    M    |    L    |    L    |
 | Crear experiencia nueva  |   L   |    M    |    L    |    L    |
 | Convertirse en anfitrión |   L   |    M    |    L    |    L    |
+| Anular reserva           |   L   |    M    |    L    |    L    |
+| Ver mis experiencias     |   L   |    M    |    L    |    L    |
+| Ver mis reservas         |   L   |    M    |    L    |    L    |
+| Rechazar reserva         |   L   |    M    |    L    |    L    |
 
 
 
