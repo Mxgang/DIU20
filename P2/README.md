@@ -38,9 +38,6 @@ DIU - Practica2, entregables
 | Anular reserva           |       |    L    |    L    |   
 
 
-Cancelar reserva	1	1	0
-Valorar experiencia	1	1	0
-Anular reserva	0	1	1
 
 
 
