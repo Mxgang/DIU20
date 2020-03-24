@@ -11,31 +11,38 @@ DIU - Practica2, entregables
 
 **2. User/Task flow**
 
-| Tareas\Grupo de usuarios | Usuarios consumidores | Usuarios anfitriones | Profesional |
+| Tareas\Grupo de usuarios | **`Usuarios consumidores`** | **`Usuarios anfitriones`** | Profesional |
 | :---                     | :----:  | :----:  | :----:  | 
-| Crear cuenta             |   L   |    L    |    L    |  
-| Iniciar sesión           |   M   |    M    |    M    |   
-| Buscar experiencia       |   H   |    L    |         |   
-| *`Solicitar reserva`*    |   M   |    L    |         |    
-| Valorar experiencia      |   L   |    L    |         | 
-| *`Anular reserva`*       |       |    L    |    L    |   
-| Ver mi cuenta            |   M   |    M    |    L    |   
-| Aplicar filtros de búsqueda    |   H   |    L   |    L    |    
-| Seleccionar experiencia  |   M   |    L    |        |   
-| Cambiar idioma/divisas   |   L   |    L    |    L    |   
-| Ver mensajes             |   L   |    M    |    M    |   
-| Responder mensaje        |   L   |    M    |    M    |   
-| Pagar                    |   H   |    L    |         |    
-| Cambiar datos perfil     |   L   |    M    |    M    |   
-| Ver mi perfil            |   M   |    M    |    M    |    
-| Ver perfil de Host       |   M   |    L    |         |   
-| Ver datos de experiencia |   H   |    M    |    M    |   
+| **`Ver datos de experiencia`** |   H   |    M    |    M    |   
+| **`Ver mis experiencias`**     |   M   |    M    |    M    |    
+| **`Ver mi perfil`**            |   M   |    M    |    M    |    
+| **`Iniciar sesión`**           |   M   |    M    |    M    |   
+| **`Ver mis reservas`**         |   M   |    M    |    M    |    
 | Crear experiencia nueva  |       |    M    |    H    |    
+| Responder mensaje        |   L   |    M    |    M    |   
+| Ver mi cuenta            |   M   |    M    |    L    |   
+| Ver mensajes             |   L   |    M    |    M    |   
+| Aplicar filtros de búsqueda    |   H   |    L   |    L    |    
+| Cambiar datos perfil     |   L   |    M    |    M    |   
+| Buscar experiencia       |   H   |    L    |         |   
+| Pagar                    |   H   |    L    |         |    
+| Seleccionar experiencia  |   M   |    L    |        |   
+| Rechazar reserva         |       |    L    |    M    |    
+| Ver perfil de Host       |   M   |    L    |         |   
+| Solicitar reserva        |   M   |    L    |         |    
+| Crear cuenta             |   L   |    L    |    L    |  
+| Cambiar idioma/divisas   |   L   |    L    |    L    |   
 | Convertirse en anfitrión |       |    L    |    L    |   
 | Cancelar reserva         |   L   |    L    |         |    
-| Ver mis experiencias     |   M   |    M    |    M    |    
-| Ver mis reservas         |   M   |    M    |    M    |    
-| Rechazar reserva         |       |    L    |    M    |    
+| Valorar experiencia      |   L   |    L    |         | 
+| Anular reserva           |       |    L    |    L    |   
+
+
+Cancelar reserva	1	1	0
+Valorar experiencia	1	1	0
+Anular reserva	0	1	1
+
+
 
 **3. Arquitectura de la información**
 ![Método UX](sitemap.jpg)
