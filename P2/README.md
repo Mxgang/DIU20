@@ -1,7 +1,6 @@
 DIU - Practica2, entregables
 
-Malla receptora de información 
-
+**1. Malla receptora de información **
 
 | Interesante/Relevante  | Críticas constructivas  | Preguntas a partir de la experiencia | Nuevas ideas |
 | :---        |  :----:   | :----: | :----: |
@@ -10,6 +9,7 @@ Malla receptora de información
 | Gran variedad de experiencias únicas.      | En general existen muchos elementos en cada página que pueden agobiar al usuario, sobre todo a la hora de necesitar hacer scroll, esto hace que no sea accesible.  |  Darío - ¿ Cómo puedo saber si la comida contiene gluten ? Mi mujer es celíaca.     |  UX Engagement - Una mejora en la latencia del sitio web. |              
 | Aplicación para móviles disponible.        | Ciertos elementos no tienen un indicador claro de ser un enlace, por ejemplo el icono a la página principal.  | Anabel - ¿ Puedo compartir mi experiencia en Instagram ? No uso las redes sociales que deja la aplicación.  |  UX Engagement - Conseguir una mayor retención y uso agradable por parte de los usuarios.  |              
 
+**2. User/Task flow**
 
 | Tareas\Grupo de usuarios | Usuarios consumidores | Usuarios anfitriones | Profesional |
 | :---                     | :----:  | :----:  | :----:  | 
@@ -18,27 +18,27 @@ Malla receptora de información
 | Buscar experiencia       |   H   |    L    |    M    |   
 | *`Solicitar reserva`*    |   M   |    L    |         |    
 | Valorar experiencia      |   L   |    L    |         | 
-| *`Anular reserva`*       |   L   |    L    |         |   
+| *`Anular reserva`*       |       |    L    |    L    |   
 | Ver mi cuenta            |   M   |    M    |    L    |   
-| Ver reservas             |   M   |    M    |    L    |   
 | Aplicar filtros de búsqueda    |   H   |    L   |    L    |    
-| Seleccionar experiencia  |   M   |    L    |    L    |   
+| Seleccionar experiencia  |   M   |    L    |        |   
 | Cambiar idioma/divisas   |   L   |    L    |    L    |   
 | Ver mensajes             |   L   |    M    |    M    |   
-| Responder mensaje        |   L   |    H    |    H    |   
+| Responder mensaje        |   L   |    M    |    M    |   
 | Pagar                    |   H   |    L    |         |    
 | Cambiar datos perfil     |   L   |    M    |    M    |   
 | Ver mi perfil            |   M   |    M    |    M    |    
 | Ver perfil de Host       |   M   |    L    |         |   
-| Ver datos de experiencia |   H   |    H    |    H    |   
+| Ver datos de experiencia |   H   |    M    |    M    |   
 | Crear experiencia nueva  |       |    H    |    H    |    
-| Convertirse en anfitrión |   L   |    H    |    H    |   
-| Anular reserva           |   L   |    L    |    L    |    
+| Convertirse en anfitrión |       |    L    |    L    |   
+| Cancelar reserva         |   L   |    L    |         |    
 | Ver mis experiencias     |   M   |    M    |    M    |    
-| Ver mis reservas         |   M   |    M    |         |    
-| Rechazar reserva         |   L   |    L    |    M    |    
+| Ver mis reservas         |   M   |    M    |    M    |    
+| Rechazar reserva         |      |    L    |    M    |    
 
-
+**3. Arquitectura de la información**
+![Método UX](sitemap.jpg)
 
 
 Sitemap & Task flow 
