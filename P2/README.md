@@ -15,28 +15,28 @@ Malla receptora de información
 | :---                     | :----:  | :----:  | :----:  | 
 | Crear cuenta             |   L   |    L    |    L    |  
 | Iniciar sesión           |   M   |    M    |    M    |   
-| Buscar experiencia       |   H   |    H    |    M    |   
-| *`Solicitar reserva`*    |   M   |    H    |    L    |    
-| Valorar experiencia      |   L   |    M    |    L    | 
-| *`Anular reserva`*       |   L   |    L    |    L    |   
+| Buscar experiencia       |   H   |    L    |    M    |   
+| *`Solicitar reserva`*    |   M   |    L    |         |    
+| Valorar experiencia      |   L   |    L    |         | 
+| *`Anular reserva`*       |   L   |    L    |         |   
 | Ver mi cuenta            |   M   |    M    |    L    |   
 | Ver reservas             |   M   |    M    |    L    |   
-| Aplicar filtros de búsqueda    |   H   |    H    |    M    |    
-| Seleccionar experiencia  |   M   |    H    |    M    |   
-| Cambiar idioma/divisas   |   H   |    H    |    L    |   
-| Ver mensajes             |   L   |    M    |    L    |   
-| Responder mensaje        |   L   |    M    |    L    |   
-| Pagar                    |   H   |    H    |    L    |    
-| Cambiar datos perfil     |   L   |    M    |    L    |   
-| Ver mi perfil            |   M   |    M    |    L    |    
-| Ver perfil de Host       |   L   |    M    |    L    |   
-| Ver datos de experiencia |   H   |    H    |    M    |   
-| Crear experiencia nueva  |   M   |    L    |    L    |    
-| Convertirse en anfitrión |   M   |    L    |    L    |   
+| Aplicar filtros de búsqueda    |   H   |    L   |    L    |    
+| Seleccionar experiencia  |   M   |    L    |    L    |   
+| Cambiar idioma/divisas   |   H   |    H    |    H    |   
+| Ver mensajes             |   L   |    M    |    M    |   
+| Responder mensaje        |   L   |    H    |    H    |   
+| Pagar                    |   H   |    L    |         |    
+| Cambiar datos perfil     |   L   |    M    |    M    |   
+| Ver mi perfil            |   M   |    M    |    M    |    
+| Ver perfil de Host       |   M   |    L    |         |   
+| Ver datos de experiencia |   H   |    H    |    H    |   
+| Crear experiencia nueva  |       |    H    |    H    |    
+| Convertirse en anfitrión |   L   |    H    |    H    |   
 | Anular reserva           |   L   |    L    |    L    |    
-| Ver mis experiencias     |   M   |    M    |    L    |    
-| Ver mis reservas         |   M   |    M    |    L    |    
-| Rechazar reserva         |   L   |    L    |    L    |    
+| Ver mis experiencias     |   M   |    M    |    M    |    
+| Ver mis reservas         |   M   |    M    |         |    
+| Rechazar reserva         |   L   |    L    |    M    |    
 
 
 
