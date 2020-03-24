@@ -35,7 +35,7 @@ DIU - Practica2, entregables
 | Cancelar reserva         |   L   |    L    |         |    
 | Ver mis experiencias     |   M   |    M    |    M    |    
 | Ver mis reservas         |   M   |    M    |    M    |    
-| Rechazar reserva         |      |    L    |    M    |    
+| Rechazar reserva         |       |    L    |    M    |    
 
 **3. Arquitectura de la información**
 ![Método UX](sitemap.jpg)
