@@ -15,7 +15,7 @@ DIU - Practica2, entregables
 | :---                     | :----:  | :----:  | :----:  | 
 | Crear cuenta             |   L   |    L    |    L    |  
 | Iniciar sesión           |   M   |    M    |    M    |   
-| Buscar experiencia       |   H   |    L    |    M    |   
+| Buscar experiencia       |   H   |    L    |         |   
 | *`Solicitar reserva`*    |   M   |    L    |         |    
 | Valorar experiencia      |   L   |    L    |         | 
 | *`Anular reserva`*       |       |    L    |    L    |   
@@ -30,7 +30,7 @@ DIU - Practica2, entregables
 | Ver mi perfil            |   M   |    M    |    M    |    
 | Ver perfil de Host       |   M   |    L    |         |   
 | Ver datos de experiencia |   H   |    M    |    M    |   
-| Crear experiencia nueva  |       |    H    |    H    |    
+| Crear experiencia nueva  |       |    M    |    H    |    
 | Convertirse en anfitrión |       |    L    |    L    |   
 | Cancelar reserva         |   L   |    L    |         |    
 | Ver mis experiencias     |   M   |    M    |    M    |    
