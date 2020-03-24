@@ -23,7 +23,7 @@ Malla receptora de información
 | Ver reservas             |   M   |    M    |    L    |   
 | Aplicar filtros de búsqueda    |   H   |    L   |    L    |    
 | Seleccionar experiencia  |   M   |    L    |    L    |   
-| Cambiar idioma/divisas   |   H   |    H    |    H    |   
+| Cambiar idioma/divisas   |   L   |    L    |    L    |   
 | Ver mensajes             |   L   |    M    |    M    |   
 | Responder mensaje        |   L   |    H    |    H    |   
 | Pagar                    |   H   |    L    |         |    
