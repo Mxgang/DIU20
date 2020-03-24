@@ -11,32 +11,32 @@ Malla receptora de información
 | Aplicación para móviles disponible.        | Ciertos elementos no tienen un indicador claro de ser un enlace, por ejemplo el icono a la página principal.  | Anabel - ¿ Puedo compartir mi experiencia en Instagram ? No uso las redes sociales que deja la aplicación.  |  UX Engagement - Conseguir una mayor retención y uso agradable por parte de los usuarios.  |              
 
 
-| Tareas\Grupo de usuarios | *`Una persona`* | *`Unos amigos`* | Una persona mayor | Persona con TDAH |
-| :---                     | :----:  | :----:  | :----:  | :----:  |
-| Crear cuenta             |   L   |    L    |    L    |    L    |
-| Iniciar sesión           |   M   |    M    |    M    |    M    |
-| Buscar experiencia       |   H   |    H    |    M    |    M    |
-| *`Solicitar reserva`*    |   M   |    H    |    L    |    M    |
-| Valorar experiencia      |   L   |    M    |    L    |    L    |
-| *`Anular reserva`*       |   L   |    L    |    L    |    L    |
-| Ver mi cuenta            |   M   |    M    |    L    |    L    |
-| Ver reservas             |   M   |    M    |    L    |    L    |
-| Aplicar filtros de búsqueda    |   H   |    H    |    M    |    L    |
-| Seleccionar experiencia  |   M   |    H    |    M    |    L    |
-| Cambiar idioma/divisas   |   H   |    H    |    L    |    M    |
-| Ver mensajes             |   L   |    M    |    L    |    L    |
-| Responder mensaje        |   L   |    M    |    L    |    L    |
-| Pagar                    |   H   |    H    |    L    |    M    |
-| Cambiar datos perfil     |   L   |    M    |    L    |    L    |
-| Ver mi perfil            |   M   |    M    |    L    |    L    |
-| Ver perfil de Host       |   L   |    M    |    L    |    L    |
-| Ver datos de experiencia |   H   |    H    |    M    |    M    |
-| Crear experiencia nueva  |   M   |    L    |    L    |    L    |
-| Convertirse en anfitrión |   M   |    L    |    L    |    L    |
-| Anular reserva           |   L   |    L    |    L    |    L    |
-| Ver mis experiencias     |   M   |    M    |    L    |    M    |
-| Ver mis reservas         |   M   |    M    |    L    |    L    |
-| Rechazar reserva         |   L   |    L    |    L    |    L    |
+| Tareas\Grupo de usuarios | Usuarios consumidores | Usuarios anfitriones | Profesional |
+| :---                     | :----:  | :----:  | :----:  | 
+| Crear cuenta             |   L   |    L    |    L    |  
+| Iniciar sesión           |   M   |    M    |    M    |   
+| Buscar experiencia       |   H   |    H    |    M    |   
+| *`Solicitar reserva`*    |   M   |    H    |    L    |    
+| Valorar experiencia      |   L   |    M    |    L    | 
+| *`Anular reserva`*       |   L   |    L    |    L    |   
+| Ver mi cuenta            |   M   |    M    |    L    |   
+| Ver reservas             |   M   |    M    |    L    |   
+| Aplicar filtros de búsqueda    |   H   |    H    |    M    |    
+| Seleccionar experiencia  |   M   |    H    |    M    |   
+| Cambiar idioma/divisas   |   H   |    H    |    L    |   
+| Ver mensajes             |   L   |    M    |    L    |   
+| Responder mensaje        |   L   |    M    |    L    |   
+| Pagar                    |   H   |    H    |    L    |    
+| Cambiar datos perfil     |   L   |    M    |    L    |   
+| Ver mi perfil            |   M   |    M    |    L    |    
+| Ver perfil de Host       |   L   |    M    |    L    |   
+| Ver datos de experiencia |   H   |    H    |    M    |   
+| Crear experiencia nueva  |   M   |    L    |    L    |    
+| Convertirse en anfitrión |   M   |    L    |    L    |   
+| Anular reserva           |   L   |    L    |    L    |    
+| Ver mis experiencias     |   M   |    M    |    L    |    
+| Ver mis reservas         |   M   |    M    |    L    |    
+| Rechazar reserva         |   L   |    L    |    L    |    
 
 
 
