@@ -58,22 +58,22 @@ Labelling
 | Conviértete en anfitrión| |  
 | Iniciar sesión | |
 | Crear cuenta | |  
-| Crear experiencia  | |  
+| **Crear experiencia**  | |  
 | Cambiar datos perfil  | |  
 | Ver mis experiencias | |  
-| Ver experiencias propuestas | |  
+| **Ver experiencias propuestas** | |  
 | Ver mis reservas | |  ----------------
-| Mensajes | |  
-| Cambiar datos cuenta | |  
-| Aplicar filtros de búsqueda | |  
+| Mensajes | Página que contiene los mensajes enviados y recibidos con otros usuarios de la plataforma |  
+| Cambiar datos cuenta | Sección de página que permite modificar los cambios de cuenta del usuario con un formulario y un botón de guardado |  
+| **Aplicar filtros de búsqueda** | Conjuntos de  |  
 | Ver datos de experiencia | |  
 | Ver perfil anfitrión | | 
 | Valorar experiencia | |  
-| Rechazar reserva | |  
-| Aceptar reserva | |  
-| Anular reserva | |  
+| **Rechazar reserva** | |  
+| **Aceptar reserva** | |  
+| **Anular reserva** | |  
 | Pagar | |  
-| Cancelar reserva | |  
+| **Cancelar reserva** | |  
 | Solicitar reserva | |  
 | Escribir mensaje | |  
 | | |  
