@@ -48,7 +48,7 @@ En la siguiente tabla mostramos las distintas funcionalidades del sitio además 
 
 Estructura que se va a usar para el diseño y desarrollo del sitio web.
 
-![Método UX](sitemap.jpg)
+![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/sitemap.jpg)
 
 
 __Labelling__
@@ -94,7 +94,7 @@ Bocetos realizados a partir de las funcionaldiades más importantes del Task Flo
 
   1. Ver datos de experiencia.  
     
-  ![Método UX](datos_experiencia.jpg)
+  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/datos_experiencia.jpg)
   
   
   2. Ver mis experiencias.  
@@ -107,11 +107,11 @@ Bocetos realizados a partir de las funcionaldiades más importantes del Task Flo
 
   4. Iniciar sesión.  
      
-  ![Método UX](iniciar_sesion.jpg)
+  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/iniciar_sesion.jpg)
   
   5. Ver mis reservas.  
    
-  ![Método UX](mis_reservas.jpg)
+  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/mis_reservas.jpg)
 
 
 **5. Repositorio del Equipo**
