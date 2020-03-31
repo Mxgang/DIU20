@@ -99,11 +99,11 @@ Bocetos realizados a partir de las funcionaldiades más importantes del Task Flo
   
   2. Ver mis experiencias.  
      
-  ![Método UX](ver_mis_experiencias.jpg)
+  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mis_experiencias.jpg)
   
   3. Ver mi perfil.   
       
-  ![Método UX](ver_mi_perfil.jpg)
+  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mi_perfil.jpg)
 
   4. Iniciar sesión.  
      
