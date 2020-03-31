@@ -112,3 +112,8 @@ Bocetos realizados a partir de las funcionaldiades más importantes del Task Flo
   5. Ver mis reservas.  
    
   ![Método UX](mis_reservas.jpg)
+
+
+**5. Repositorio del Equipo**
+
+[Equipo: Crescendum](https://github.com/Mxgang/DIU20)
