@@ -2,6 +2,9 @@ DIU - Practica2, entregables
 
 **1. Malla receptora de información **
 
+Aquí la malla de información que hemos creado donde está toda la información acerca de la plataforma que hemos estado investigando, EatWith.
+
+
 | Interesante/Relevante  | Críticas constructivas  | Preguntas a partir de la experiencia | Nuevas ideas |
 | :---        |  :----:   | :----: | :----: |
 | Permite ganar un dinero extra con tu hobbie.    | El vídeo de la página principal satura demasiado, sería recomendable cambiarlo por ejemplo por una imágen estática.  |   Anabel - ¿ Es posible realizar búsquedas solo a partir de un único filtro?   |  Comunicación - Añadir servicios en los idiomas en los que se muestra la información principal. El sistema de soporte y compartir en redes sociales no se encuentra en todos los idiomas.        |              
@@ -10,6 +13,8 @@ DIU - Practica2, entregables
 | Aplicación para móviles disponible.        | Ciertos elementos no tienen un indicador claro de ser un enlace, por ejemplo el icono a la página principal.  | Anabel - ¿ Puedo compartir mi experiencia en Instagram ? No uso las redes sociales que deja la aplicación.  |  UX Engagement - Conseguir una mayor retención y uso agradable por parte de los usuarios.  |              
 
 **2. User/Task flow**
+
+En la siguiente tabla mostramos las distintas funcionalidades del sitio además de los grupos que lo van a usar y la frecuencia de uso, marcando en negrita tanto los usuarios como funcionalidades más importantes.
 
 | Tareas\Grupo de usuarios | **`Usuarios consumidores`** | **`Usuarios anfitriones`** | Profesional |
 | :---                     | :----:  | :----:  | :----:  | 
@@ -38,14 +43,16 @@ DIU - Practica2, entregables
 | Anular reserva           |       |    L    |    L    |   
 
 
-
-
-
 **3. Arquitectura de la información**
-Sitemap
+
+__Sitemap__
+Estructura que se va a usar para el diseño y desarrollo del sitio web.
+
 ![Método UX](sitemap.jpg)
 
-Labelling
+
+__Labelling__
+Información detallada de todas las funcionalidades del sitio web.
 
 | **Label**  |  **Scope Note**   |   
 | :----:  | :----: |
@@ -78,4 +85,5 @@ Labelling
 | Solicitar reserva | Botón que permite solicitar una reserva en una experiencia culinaria |  
 | Escribir mensaje | Formulario que permite comunicar un mensaje a un usuario de la plataforma | 
 
-
+**4. Bocetos Lo-Fi**
+Bocetos realizados a partir de las funcionaldiades más importantes del Task Flow
