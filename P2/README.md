@@ -50,19 +50,19 @@ Labelling
 | **Label**  |  **Scope Note**   |    
 | Página principal        |   Página de inicio del sitio web, contiene los elemento comunes a las demás páginas (header, footer)   |   
 | Cambiar idioma/divisas            |   Botón que permite cambiar el idioma de la página y la divisa a la hora de calcular precios   |
-| Mi perfil | | 
-| Mi cuenta | |  
-| Buscar experiencia | |  
-| Acerca de | |  
-| Ayuda | |  
-| Conviértete en anfitrión| |  
-| Iniciar sesión | |
-| Crear cuenta | |  
-| **Crear experiencia**  | |  
-| Cambiar datos perfil  | |  
-| Ver mis experiencias | |  
+| Mi perfil | Botón que permite acceder a la información de tu perfil | 
+| Mi cuenta | Botón que permite acceder a la información de tus credenciales de acceso |  
+| Buscar experiencia | Este botón te permite hacer una búsqueda de una experiencia dados unos párametros |  
+| Acerca de | Botón que muestra la información del sitio, aviso legal, términos y condiciones y política de privacidad |  
+| Ayuda | Botón para poder contactar con el servicio de atención al cliente y poder resolver dudas |  
+| Conviértete en anfitrión| Con este botón siendo usuario puedes convertirte en anfitrión y crear experiencias |  
+| Iniciar sesión | Botón que permite iniciar sesión introduciendo nombre de usuario o email y contraseña, además si te has olvidado la contraseña habrá un botón estilo "¿has olvidado la contraseña?" |
+| Crear cuenta | Botón para crear una cuenta nueva introduciendo una serie de datos de un formulario |  
+| **Crear experiencia**  | Botón que permite crear una experiencia siendo anfitrión, dando una serie de datos de un formulario |  
+| Cambiar datos perfil  | Sección que permite cambiar información de tu perfil |  
+| Ver mis experiencias | Página que contiene todas las experiencias que has realizado  |  
 | **Ver experiencias propuestas** | |  
-| Ver mis reservas | |  ----------------
+| Ver mis reservas | Página donde puedes ver las reservas de experiencias que tienes |  ----------------
 | Mensajes | Página que contiene los mensajes enviados y recibidos con otros usuarios de la plataforma |  
 | Cambiar datos cuenta | Sección de página que permite modificar los cambios de cuenta del usuario con un formulario y un botón de guardado |  
 | **Aplicar filtros de búsqueda** | Conjuntos de  |  
