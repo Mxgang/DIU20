@@ -93,16 +93,22 @@ Información detallada de todas las funcionalidades del sitio web.
 Bocetos realizados a partir de las funcionaldiades más importantes del Task Flow:
 
   1. Ver datos de experiencia.
+  <br>
   ![Método UX](datos_experiencia.jpg)
   
   
   2. Ver mis experiencias.
+   <br>
   ![Método UX](ver_mis_experiencias.jpg)
   
   3. Ver mi perfil.
-  
+   <br>
+    ![Método UX](ver_mi_perfil.jpg)
+
   4. Iniciar sesión.
+   <br>
   ![Método UX](iniciar_sesion.jpg)
   
   5. Ver mis reservas.
+   <br>
   ![Método UX](mis_reservas.jpg)
