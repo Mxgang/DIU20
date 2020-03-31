@@ -56,7 +56,7 @@ Labelling
 | Buscar experiencia | Este botón te permite hacer una búsqueda de una experiencia dados unos párametros |  
 | Acerca de | Botón que muestra la información del sitio, aviso legal, términos y condiciones y política de privacidad |  
 | Ayuda | Botón para poder contactar con el servicio de atención al cliente y poder resolver dudas |  
-| Conviértete en anfitrión| Con este botón siendo usuario puedes convertirte en anfitrión y crear experiencias |  
+| **Conviértete en anfitrión** |  Acción condicional: solo se permite su uso a usuarios no anfitriones. Con este botón siendo usuario puedes convertirte en anfitrión y crear experiencias |  
 | Iniciar sesión | Botón que permite iniciar sesión introduciendo nombre de usuario o email y contraseña, además si te has olvidado la contraseña habrá un botón estilo "¿has olvidado la contraseña?" |
 | Crear cuenta | Botón para crear una cuenta nueva introduciendo una serie de datos de un formulario |  
 | **Crear experiencia**  | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite crear una experiencia siendo anfitrión, dando una serie de datos de un formulario |  
