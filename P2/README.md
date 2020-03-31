@@ -46,12 +46,14 @@ En la siguiente tabla mostramos las distintas funcionalidades del sitio además 
 **3. Arquitectura de la información**
 
 **Sitemap**
+
 Estructura que se va a usar para el diseño y desarrollo del sitio web.
 
 ![Método UX](sitemap.jpg)
 
 
-**Labelling**
+__Labelling__
+
 Información detallada de todas las funcionalidades del sitio web.
 
 | **Label**  |  **Scope Note**   |   
