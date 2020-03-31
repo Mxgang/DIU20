@@ -1,4 +1,3 @@
-DIU - Practica2, entregables
 
 **1. Malla receptora de información**
 
@@ -67,7 +66,8 @@ Información detallada de todas las funcionalidades del sitio web.
 | Ayuda | Botón para poder contactar con el servicio de atención al cliente y poder resolver dudas |  
 | **Conviértete en anfitrión** |  Acción condicional: solo se permite su uso a usuarios no anfitriones. Con este botón siendo usuario puedes convertirte en anfitrión y crear experiencias |  
 | Iniciar sesión | Botón que permite iniciar sesión introduciendo nombre de usuario o email y contraseña, además si te has olvidado la contraseña habrá un botón estilo "¿has olvidado la contraseña?" |
-| Crear cuenta | Botón para crear una cuenta nueva introduciendo una serie de datos de un formulario |  
+| Crear cuenta | Botón para crear una cuenta nueva introduciendo una serie de datos de un formulario | 
+| Redes sociales | Botones para acceder a las redes sociales del sitio como Facebook, Twitter, Instagram entre otros |  
 | **Crear experiencia**  | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite crear una experiencia siendo anfitrión, dando una serie de datos de un formulario |  
 | Cambiar datos perfil  | Sección que permite cambiar información de tu perfil |  
 | Ver mis experiencias | Página que contiene todas las experiencias que has realizado  |  
@@ -75,7 +75,8 @@ Información detallada de todas las funcionalidades del sitio web.
 | Ver mis reservas | Página donde puedes ver las reservas de experiencias que tienes |
 | Mensajes | Página que contiene los mensajes enviados y recibidos con otros usuarios de la plataforma |  
 | Cambiar datos cuenta | Sección de página que permite modificar los cambios de cuenta del usuario con un formulario y un botón de guardado |  
-| **Aplicar filtros de búsqueda** | Acción opcional: se permite su uso para obtener resultados más específicos. Conjuntos de filtros **opcionales** para realizar la búsqueda de una experiencia. De entre ellos destacamos: fecha, número de invitados, precio, reserva instantánea, tipo de evento, tipo de cocina, idioma del anfitrión, lugar y régimen alimenticio.  |  
+| **Aplicar filtros de búsqueda** | Acción opcional: se permite su uso para obtener resultados más específicos. Conjuntos de filtros **opcionales** para realizar la búsqueda de una experiencia. De entre ellos destacamos: fecha, número de invitados, precio, reserva instantánea, tipo de evento, tipo de cocina, idioma del anfitrión, lugar y régimen alimenticio.  | 
+| Filtros de reservas | Conjunto de filtros para encontrar reservas según si están pagados, confirmados, rechazados... |  
 | Ver datos de experiencia | Página que muestra todos los datos relevantes de una experiencia como su nombre, fecha, anfitrión, descripción, un botón para realizar una reserva, etc.|  
 | Ver perfil anfitrión | Página que muestra los datos públicos de un usuario anfitrión | 
 | Valorar experiencia | Formulario que permite valorar la calidad de la experiencia culinaria realizada |  
