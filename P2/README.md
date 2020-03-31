@@ -47,7 +47,8 @@ Sitemap
 
 Labelling
 
-| **Label**  |  **Scope Note**   |    
+| **Label**  |  **Scope Note**   |   
+| :----:  | :----: |
 | Página principal        |   Página de inicio del sitio web, contiene los elemento comunes a las demás páginas (header, footer)   |   
 | Cambiar idioma/divisas            |   Botón que permite cambiar el idioma de la página y la divisa a la hora de calcular precios   |
 | Mi perfil | Botón que permite acceder a la información de tu perfil | 
@@ -65,23 +66,16 @@ Labelling
 | Ver mis reservas | Página donde puedes ver las reservas de experiencias que tienes |
 | Mensajes | Página que contiene los mensajes enviados y recibidos con otros usuarios de la plataforma |  
 | Cambiar datos cuenta | Sección de página que permite modificar los cambios de cuenta del usuario con un formulario y un botón de guardado |  
-| **Aplicar filtros de búsqueda** | Conjuntos de  |  
-| Ver datos de experiencia | |  
-| Ver perfil anfitrión | | 
-| Valorar experiencia | |  
-| **Rechazar reserva** | |  
-| **Aceptar reserva** | |  
-| **Anular reserva** | |  
-| Pagar | |  
-| **Cancelar reserva** | |  
-| Solicitar reserva | |  
-| Escribir mensaje | |  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |  
-
+| **Aplicar filtros de búsqueda** | Conjuntos de filtros **opcionales** para realizar la búsqueda de una experiencia. De entre ellos destacamos: fecha, número de invitados, precio, reserva instantánea, tipo de evento, tipo de cocina, idioma del anfitrión, lugar y régimen alimenticio.  |  
+| Ver datos de experiencia | Página que muestra todos los datos relevantes de una experiencia como su nombre, fecha, anfitrión, descripción, un botón para realizar una reserva, etc.|  
+| Ver perfil anfitrión | Página que muestra los datos públicos de un usuario anfitrión | 
+| Valorar experiencia | Formulario que permite valorar la calidad de la experiencia culinaria realizada |  
+| **Rechazar reserva** | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite rechazar la petición de reserva de un usuario que haya realizado una reserva en la experiencia organizada por el anfitrión   |  
+| **Aceptar reserva** | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite aceptar la reserva de un usuario a un evento organizado por el anfitrión |  
+| **Anular reserva** | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite anular una reserva en caso de que al anfitrión le haya surgido un problema que le impida organizar la experiencia |  
+| Pagar | Formulario que permite la transacción del pago |  
+| **Cancelar reserva** | Acción condicional: solo se permite su uso a usuarios que han solicitado reserva en una experiencia. Botón que permite cancelar la reserva de una experiencia si el usuario decide retractarse o no puede ir al evento |  
+| Solicitar reserva | Botón que permite solicitar una reserva en una experiencia culinaria |  
+| Escribir mensaje | Formulario que permite comunicar un mensaje a un usuario de la plataforma | 
 
 
