@@ -62,7 +62,7 @@ Labelling
 | Cambiar datos perfil  | Sección que permite cambiar información de tu perfil |  
 | Ver mis experiencias | Página que contiene todas las experiencias que has realizado  |  
 | **Ver experiencias propuestas** | |  
-| Ver mis reservas | Página donde puedes ver las reservas de experiencias que tienes |  ----------------
+| Ver mis reservas | Página donde puedes ver las reservas de experiencias que tienes |
 | Mensajes | Página que contiene los mensajes enviados y recibidos con otros usuarios de la plataforma |  
 | Cambiar datos cuenta | Sección de página que permite modificar los cambios de cuenta del usuario con un formulario y un botón de guardado |  
 | **Aplicar filtros de búsqueda** | Conjuntos de  |  
