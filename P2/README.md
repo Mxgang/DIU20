@@ -42,9 +42,46 @@ DIU - Practica2, entregables
 
 
 **3. Arquitectura de la información**
+Sitemap
 ![Método UX](sitemap.jpg)
 
+Labelling
 
-Sitemap & Task flow 
-Labelling 
-Wireframe & User flow 
+| **Label**  |  **Scope Note**   |    
+| Página principal        |   Página de inicio del sitio web, contiene los elemento comunes a las demás páginas (header, footer)   |   
+| Cambiar idioma/divisas            |   Botón que permite cambiar el idioma de la página y la divisa a la hora de calcular precios   |
+| Mi perfil | | 
+| Mi cuenta | |  
+| Buscar experiencia | |  
+| Acerca de | |  
+| Ayuda | |  
+| Conviértete en anfitrión| |  
+| Iniciar sesión | |
+| Crear cuenta | |  
+| Crear experiencia  | |  
+| Cambiar datos perfil  | |  
+| Ver mis experiencias | |  
+| Ver experiencias propuestas | |  
+| Ver mis reservas | |  ----------------
+| Mensajes | |  
+| Cambiar datos cuenta | |  
+| Aplicar filtros de búsqueda | |  
+| Ver datos de experiencia | |  
+| Ver perfil anfitrión | | 
+| Valorar experiencia | |  
+| Rechazar reserva | |  
+| Aceptar reserva | |  
+| Anular reserva | |  
+| Pagar | |  
+| Cancelar reserva | |  
+| Solicitar reserva | |  
+| Escribir mensaje | |  
+| | |  
+| | |  
+| | |  
+| | |  
+| | |  
+| | |  
+
+
+
