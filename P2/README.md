@@ -1,6 +1,6 @@
 DIU - Practica2, entregables
 
-**1. Malla receptora de información **
+**1. Malla receptora de información**
 
 Aquí la malla de información que hemos creado donde está toda la información acerca de la plataforma que hemos estado investigando, EatWith.
 
@@ -45,13 +45,13 @@ En la siguiente tabla mostramos las distintas funcionalidades del sitio además 
 
 **3. Arquitectura de la información**
 
-__Sitemap__
+**Sitemap**
 Estructura que se va a usar para el diseño y desarrollo del sitio web.
 
 ![Método UX](sitemap.jpg)
 
 
-__Labelling__
+**Labelling**
 Información detallada de todas las funcionalidades del sitio web.
 
 | **Label**  |  **Scope Note**   |   
