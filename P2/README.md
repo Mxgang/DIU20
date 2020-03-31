@@ -90,4 +90,14 @@ Información detallada de todas las funcionalidades del sitio web.
 
 **4. Bocetos Lo-Fi**
 
-Bocetos realizados a partir de las funcionaldiades más importantes del Task Flow
+Bocetos realizados a partir de las funcionaldiades más importantes del Task Flow:
+
+  1. Ver datos de experiencia.
+  
+  2. Ver mis experiencias.
+  
+  3. Ver mi perfil.
+  
+  4. Iniciar sesión.
+  
+  5. Ver mis reservas.
