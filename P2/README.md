@@ -59,10 +59,10 @@ Labelling
 | Conviértete en anfitrión| Con este botón siendo usuario puedes convertirte en anfitrión y crear experiencias |  
 | Iniciar sesión | Botón que permite iniciar sesión introduciendo nombre de usuario o email y contraseña, además si te has olvidado la contraseña habrá un botón estilo "¿has olvidado la contraseña?" |
 | Crear cuenta | Botón para crear una cuenta nueva introduciendo una serie de datos de un formulario |  
-| **Crear experiencia**  | Botón que permite crear una experiencia siendo anfitrión, dando una serie de datos de un formulario |  
+| **Crear experiencia**  | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite crear una experiencia siendo anfitrión, dando una serie de datos de un formulario |  
 | Cambiar datos perfil  | Sección que permite cambiar información de tu perfil |  
 | Ver mis experiencias | Página que contiene todas las experiencias que has realizado  |  
-| **Ver experiencias propuestas** | |  
+| **Ver experiencias creadas** | Acción condicional: solo se permite su uso a usuarios anfitriones. Página que permite ver las experiencias creadas por un anfitrión|  
 | Ver mis reservas | Página donde puedes ver las reservas de experiencias que tienes |
 | Mensajes | Página que contiene los mensajes enviados y recibidos con otros usuarios de la plataforma |  
 | Cambiar datos cuenta | Sección de página que permite modificar los cambios de cuenta del usuario con un formulario y un botón de guardado |  
