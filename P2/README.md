@@ -66,7 +66,7 @@ Labelling
 | Ver mis reservas | Página donde puedes ver las reservas de experiencias que tienes |
 | Mensajes | Página que contiene los mensajes enviados y recibidos con otros usuarios de la plataforma |  
 | Cambiar datos cuenta | Sección de página que permite modificar los cambios de cuenta del usuario con un formulario y un botón de guardado |  
-| **Aplicar filtros de búsqueda** | Conjuntos de filtros **opcionales** para realizar la búsqueda de una experiencia. De entre ellos destacamos: fecha, número de invitados, precio, reserva instantánea, tipo de evento, tipo de cocina, idioma del anfitrión, lugar y régimen alimenticio.  |  
+| **Aplicar filtros de búsqueda** | Ación opcional: se permite su uso para obtener resultados más específicos. Conjuntos de filtros **opcionales** para realizar la búsqueda de una experiencia. De entre ellos destacamos: fecha, número de invitados, precio, reserva instantánea, tipo de evento, tipo de cocina, idioma del anfitrión, lugar y régimen alimenticio.  |  
 | Ver datos de experiencia | Página que muestra todos los datos relevantes de una experiencia como su nombre, fecha, anfitrión, descripción, un botón para realizar una reserva, etc.|  
 | Ver perfil anfitrión | Página que muestra los datos públicos de un usuario anfitrión | 
 | Valorar experiencia | Formulario que permite valorar la calidad de la experiencia culinaria realizada |  
