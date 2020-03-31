@@ -86,4 +86,5 @@ Información detallada de todas las funcionalidades del sitio web.
 | Escribir mensaje | Formulario que permite comunicar un mensaje a un usuario de la plataforma | 
 
 **4. Bocetos Lo-Fi**
+
 Bocetos realizados a partir de las funcionaldiades más importantes del Task Flow
