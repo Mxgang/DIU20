@@ -31,6 +31,17 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 Las aplicaciones de compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos, en nuestro caso hemos elegido la aplicación "eatwith" en la que puedes tener una experiencia culinaria, ya sea tours de comida, clases de cocina o alguna experiencia gastronómica.
+Para escoger nuestra aplicación se ha realizado un análisis competitivo y se ha seleccionado la opción más interesante para el estudio de diseño.
+
+| Aplicación  | Uso       | Web    |Android  | Actividad  | Popularidad | Tipo             | Inconvenientes encontrados |
+| :---        |    :----: | :----: |  :----: | :----:     | :----:      | :----:           | :----:  |
+| Facebook    | Gratuito  | Sí     | Sí       | General    | Alta       | Ocio variado     | Demasiado general, dependiente del grupo creador   |
+| Meetup      | Gratuito  | Sí     | Sí       | General    | Alta       | Ocio en compañía | Existen muchas aplicaciones similares, finalidad variada   |
+| Emycet      | Gratuito  | Sí     | No       | Específica | Media      | Viajes           | Coste elevado  |
+| Artery      | Gratuito  | Sí     | No       | Específica | Baja       | Shows            | Bajo SEO, no es fácil de encontrar    |
+| Eatwith     | Gratuito  | Sí     | Sí       | Específica | Media-baja | Gastronómico     | No presenta grandes inconvenientes   |
+
+Nuestra aplicación será **_Eatwith_**
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
