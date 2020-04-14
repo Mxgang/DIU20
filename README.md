@@ -49,6 +49,14 @@ Hemos elegido a Darío y Anabel ya que son personas corrientes y son el tipo de 
 
 Se ha escogido un caso esporádico y otro programado para poder analizar en ambos casos la experiencia del usuario.
 
+## [Darío](https://pmartin97.github.io/indexJ.html)
+
+![Método UX](P1/photos/JourneyMapDario.png)
+
+## [Anabel](https://pmartin97.github.io/indexJ.html)
+
+![Método UX](P1/photos/JourneyMapAnabel.png)
+
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
