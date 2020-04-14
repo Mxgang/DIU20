@@ -30,6 +30,19 @@ Por último después de diseñar nuestra aplicación en _hi-fi_ y de desarrollar
 
 **2. Investiga patrones de diseño y guidelines**
 
+El diseño de la aplicación es un diseño _flat_ por ser un diseño sencillo y moderno. Después de realizar la investigación tenemos una lista de las técnicas que vamos a emplear:
+  1. _Breadcrumb navigation_: para indicar el estado de navegación del usuario.
+  2. _Call-to-action buttons_: remarcar los botones para que sean lo más visibles posible.
+  3. _The search results page_: para indicar las opciones que tiene el usuario.
+  4. _Quotes_: en las descripciones de los usuarios para que tengan mayor énfasis.
+  5. _Date Stamps_: para efectuar un filtro por fecha más visual y efectivo.
+  6. _The "about me" page_: necesario para dar a conocer datos sobre la página y los creadores.
+  7. _Maintenance_: para evitar frustar demasiado al usuario si no encuentra una página.
+  8. _Defensive Design_: necesario para evitar errores y que el usuario conozca el funcionamiento completo de la aplicación.
+  9 _404 error pages_: con el mismo objetivo que la página de mantenimiento.
+En cuanto a los colores utilizaremos colores cálidos y claros similares a los de la página actual, una tipografía legible y clara como _Product Sans_.
+
+
 **3. Crea tu UX Case Study.**
 
 **4. Cuenta tu historia**
