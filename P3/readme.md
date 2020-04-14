@@ -6,20 +6,20 @@ Nos parece un estudio muy completo para diseñar una nueva aplicación e introdu
 En nuestro caso, en lugar de crear una aplicación nueva, estamos rediseñando una nueva aplicación
 por lo que existen diferencias a la hora de diseñar la nueva aplicación.
 
-1. Estudio de mercado(_User research, contextual inquiry, competitive analysis y empathy map_):
+2. Estudio de mercado(_User research, contextual inquiry, competitive analysis y empathy map_):
 
 Se puede observar que se realiza un estudio coherente en cuanto a la finalidad de la aplicación, sus características,
 afinidad con las personas, etc.
 Creemos que el punto más importante en este aspecto y que hemos usado también es el análisis competitivo y "empathy map". Fijándonos en lo que hacen otras aplicaciones podemos obtener información relevante sobre el comportamiento y necesidades de los usuarios.
 Nosotros en lugar de utilizar el _empathy map_ hemos usado otra técnica de diseño, que es obtener la información a partir del uso de nuestras personas ficticias. La diferencia es que para realizar este paso primero tenemos que tener a nuestros usuarios, en el caso de MuseMap han obtenido la información a partir de las posibles necesidades, usos, problemas,etc de los usuarios.
 
-2. Análisis de los usuarios(_user interviews, affinity mapping, user personas, pain points, goals, journey, experience map y user scenarios_):
+3. Análisis de los usuarios(_user interviews, affinity mapping, user personas, pain points, goals, journey, experience map y user scenarios_):
 
 Podemos ver que los diseñadores de MuseMap han utilizado un affinity mapping para recoger todos los datos obtenidos hasta el momento para crear a sus personas ficticias que funcionarán como usuarios, en nuestro caso creamos dos personas con comportamientos diferentes pero no tuvimos en cuenta la funcionalidad de la aplicación para crearlos.
 En general la estructura de los usuarios y user journey es similar. En nuestro caso no hemos utilizado el user goals y pain points, lo cual sería una buena idea implemtarlo.
 Creemos que el experience map al detallar tanto el escenario, puede ser una buena idea para empatizar con el usuario y poder ver sus necesidades sobretodo en una aplicación con un objetivo claro y específico como es el caso de esta aplicación.
 
-3. Diseño de la aplicación(_problem statement, hypothesis statment, user flow, design studio, feature prioritisation, paper prototype, hi-fi, usability testing,evolution, site map, visual design, next step_):
+4. Diseño de la aplicación(_problem statement, hypothesis statment, user flow, design studio, feature prioritisation, paper prototype, hi-fi, usability testing,evolution, site map, visual design, next step_):
 
 En el diseño hemos utilziado técnicas diferentes, mientras que los diseñadores de MuseMap han utilziado un user flow, nosotros utilizamos un user/task flow. Sabemos que la ventaja de utilziar el user flow es que no precisa tanto el diseño de un site map y por ello el diagrama que tiene no resulta muy complejo.
 En nuestra opinión el uso del feature prioritisation es una buena técnica no solo para realizar el diseño, si no también para realizar una buena gestión del proyecto ya que distingue las tareas que son esenciales y que requieren un mayor esfuerzo. En el caso de tener que desarrollar nuestra aplicació utilizaríamos un _feature prioritisation_.
