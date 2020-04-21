@@ -109,15 +109,15 @@ Enlace a la Práctica 2: [Labelling](https://github.com/Mxgang/DIU20/tree/master
 
 Bocetos realizados a partir de las funcionaldiades más importantes del Task Flow:
 
-  1. ![Ver datos de experiencia](https://github.com/Mxgang/DIU20/blob/master/P2/datos_experiencia.jpg)    
+  1. [Ver datos de experiencia](https://github.com/Mxgang/DIU20/blob/master/P2/datos_experiencia.jpg)    
   
-  2. ![Ver mis experiencias](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mis_experiencias.jpg)  
+  2. [Ver mis experiencias](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mis_experiencias.jpg)  
      
-  3. ![Ver mi perfil](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mi_perfil.jpg).     
+  3. [Ver mi perfil](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mi_perfil.jpg).     
 
-  4. ![Iniciar sesión](https://github.com/Mxgang/DIU20/blob/master/P2/iniciar_sesion.jpg).   
+  4. [Iniciar sesión](https://github.com/Mxgang/DIU20/blob/master/P2/iniciar_sesion.jpg).   
   
-  5. ![Ver mis reservas](https://github.com/Mxgang/DIU20/blob/master/P2/mis_reservas.jpg).  
+  5. [Ver mis reservas](https://github.com/Mxgang/DIU20/blob/master/P2/mis_reservas.jpg).  
    
 
 
