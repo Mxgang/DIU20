@@ -46,3 +46,5 @@ En cuanto a los colores utilizaremos colores cálidos y claros similares a los d
 **3. Crea tu UX Case Study.**
 
 **4. Cuenta tu historia**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xqCP4JsFkoI/0.jpg)](https://www.youtube.com/watch?v=xqCP4JsFkoI)
