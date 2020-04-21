@@ -26,13 +26,7 @@ Miembros
 Las aplicaciones de compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos, en nuestro caso hemos elegido la aplicación "eatwith" en la que puedes tener una experiencia culinaria, ya sea tours de comida, clases de cocina o alguna experiencia gastronómica.
 Para escoger nuestra aplicación se ha realizado un análisis competitivo y se ha seleccionado la opción más interesante para el estudio de diseño.
 
-| Aplicación  | Uso       | Web    |Android  | Actividad  | Popularidad | Tipo             | Inconvenientes encontrados |
-| :---        |    :----: | :----: |  :----: | :----:     | :----:      | :----:           | :----:  |
-| Facebook    | Gratuito  | Sí     | Sí       | General    | Alta       | Ocio variado     | Demasiado general, dependiente del grupo creador   |
-| Meetup      | Gratuito  | Sí     | Sí       | General    | Alta       | Ocio en compañía | Existen muchas aplicaciones similares, finalidad variada   |
-| Emycet      | Gratuito  | Sí     | No       | Específica | Media      | Viajes           | Coste elevado  |
-| Artery      | Gratuito  | Sí     | No       | Específica | Baja       | Shows            | Bajo SEO, no es fácil de encontrar    |
-| Eatwith     | Gratuito  | Sí     | Sí       | Específica | Media-baja | Gastronómico     | No presenta grandes inconvenientes   |
+Enlace a la tabla de análisis: https://github.com/Mxgang/DIU20/blob/master/P1/README.md
 
 Nuestra aplicación será **_Eatwith_**
 
@@ -40,26 +34,20 @@ Nuestra aplicación será **_Eatwith_**
 -----
 
 Hemos elegido a Darío y Anabel ya que son personas corrientes y son el tipo de usuario novatos que pueden tener problemas al navegar en las aplicaciones.
-## [Darío](https://pmartin97.github.io/indexP.html)
+Enlace a la Persona Darío: ## [Darío](https://pmartin97.github.io/indexP.html)
 
-![Método UX](P1/photos/UserDario.png)
+Enlace a la Persona Anabel: ## [Anabel](https://pmartin97.github.io/indexP.html)
 
-
-## [Anabel](https://pmartin97.github.io/indexP.html)
-![Método UX](P1/photos/UserAnabel.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 Se ha escogido un caso esporádico y otro programado para poder analizar en ambos casos la experiencia del usuario.
 
-## [Darío](https://pmartin97.github.io/indexJ.html)
+Enlace al User Journey Map de Darío: ## [Darío](https://pmartin97.github.io/indexJ.html)
 
-![Método UX](P1/photos/JourneyMapDario.png)
+Enlace al User Journey Map de Anabel: ## [Anabel](https://pmartin97.github.io/indexJ.html)
 
-## [Anabel](https://pmartin97.github.io/indexJ.html)
-
-![Método UX](P1/photos/JourneyMapAnabel.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
