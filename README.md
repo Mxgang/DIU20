@@ -34,9 +34,10 @@ Nuestra aplicación será **_Eatwith_**
 -----
 
 Hemos elegido a Darío y Anabel ya que son personas corrientes y son el tipo de usuario novatos que pueden tener problemas al navegar en las aplicaciones.
-Enlace a la Persona Darío: ## [Darío](https://pmartin97.github.io/indexP.html)
 
-Enlace a la Persona Anabel: ## [Anabel](https://pmartin97.github.io/indexP.html)
+Enlace a la Persona Darío: [Darío](https://pmartin97.github.io/indexP.html)
+
+Enlace a la Persona Anabel: [Anabel](https://pmartin97.github.io/indexP.html)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
