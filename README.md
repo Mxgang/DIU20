@@ -61,7 +61,7 @@ Los aspectos más graves son:
 
 Valoración final: 78 - Buena
 
-Enlace al documento: https://github.com/Mxgang/DIU20/blob/master/P1/Usability-review-template.pdf
+Enlace al documento: [Usability Review](https://github.com/Mxgang/DIU20/blob/master/P1/Usability-review-template.pdf)
 
 
 ## Paso 2. UX Design  
@@ -85,9 +85,14 @@ Se ha utilizado la técnica de Task y Sitemap. Para ello hemos recogido las tare
 Después se han propuesto usuarios que puedan utilizar nuestra aplicación y ordenamos las actividades en función de su uso.
 Las tareas y usuarios más relevantes se han remarcado y ordenado de mayor interacción a menor.
 
-Para realizar el Sitemap se han reordenado las actividades a modo de _card sorting_ hasta que el diseño fuera sencillo y fácil de manejar.
+Para realizar el Sitemap:
+1. Otenemos etiquetas mediante las tareas analizadas.
+2. Se han reordenado las actividades a modo de _card sorting_ hasta que el diseño fuera sencillo y fácil de manejar.
+3. Cambiamos el color de algunas actividades si son obligatorias, opcionales, etc.
 
-Enlace a la práctica: 
+Enlace a la práctica: [Práctica 2] ()
+
+Enlace a sitemap: [Sitemap]()
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
