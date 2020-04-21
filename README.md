@@ -161,21 +161,7 @@ En cuanto a los colores utilizaremos colores cálidos y claros similares a los d
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<body>
-
-<object width="425" height="350">
-<param name="movie" value="https://www.youtube.com/watch?v=xqCP4JsFkoI"></param>
-<param name="wmode" value="transparent"></param>
-<embed src="https://www.youtube.com/watch?v=xqCP4JsFkoI" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350">
-</embed>
-</object>
-
-
-
-</body>
-</html>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xqCP4JsFkoI/0.jpg)](https://www.youtube.com/watch?v=xqCP4JsFkoI)
 
 ## Paso 4. Evaluación 
 
