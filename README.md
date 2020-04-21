@@ -33,7 +33,7 @@ Nuestra aplicación será **_Eatwith_**
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Hemos elegido a Darío y Anabel ya que son personas corrientes y son el tipo de usuario novatos que pueden tener problemas al navegar en las aplicaciones.
+Hemos elegido a Darío y Anabel porque tienen perfiles muy opuestos, Darío tiene problemas para interactuar con la tecnología y Anabel tiene un buen manejo de la tecnología. Ambos comparten un interés por nuestra aplicación por diferentes necesidades.
 
 Enlace a la Persona Darío: [Darío](https://pmartin97.github.io/indexP.html)
 
@@ -43,7 +43,7 @@ Enlace a la Persona Anabel: [Anabel](https://pmartin97.github.io/indexP.html)
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Se ha escogido un caso esporádico y otro programado para poder analizar en ambos casos la experiencia del usuario.
+Se ha escogido un caso esporádico y otro con una necesidad más concreta para poder analizar en ambos casos la experiencia del usuario.
 
 Enlace al User Journey Map de Darío: [Darío](https://pmartin97.github.io/indexJ.html)
 
@@ -58,6 +58,10 @@ Los aspectos más graves son:
 1. Vídeo en bucle en la página principal, es demasiado grande y provoca latencia, distracción y malestar.
 2. Sección de ayuda no está traducido
 3. Las búsquedas tienen pocos filtros y es todo muy genérico a la hora de buscar.
+
+Valoración final: 78 - Buena
+
+Enlace al documento: https://github.com/Mxgang/DIU20/blob/master/P1/Usability-review-template.pdf
 
 
 ## Paso 2. UX Design  
@@ -77,37 +81,13 @@ Los aspectos más graves son:
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-En la siguiente tabla mostramos las distintas funcionalidades del sitio además de los grupos que lo van a usar y la frecuencia de uso, marcando en negrita tanto los usuarios como funcionalidades más importantes.
+Se ha utilizado la técnica de Task y Sitemap. Para ello hemos recogido las tareas necesarias que necesita nuestra aplicación.
+Después se han propuesto usuarios que puedan utilizar nuestra aplicación y ordenamos las actividades en función de su uso.
+Las tareas y usuarios más relevantes se han remarcado y ordenado de mayor interacción a menor.
 
-| Tareas\Grupo de usuarios | **`Usuarios consumidores`** | **`Usuarios anfitriones`** | Profesional |
-| :---                     | :----:  | :----:  | :----:  | 
-| **`Ver datos de experiencia`** |   H   |    M    |    M    |   
-| **`Ver mis experiencias`**     |   M   |    M    |    M    |    
-| **`Ver mi perfil`**            |   M   |    M    |    M    |    
-| **`Iniciar sesión`**           |   M   |    M    |    M    |   
-| **`Ver mis reservas`**         |   M   |    M    |    M    |    
-| Crear experiencia nueva  |       |    M    |    H    |    
-| Responder mensaje        |   L   |    M    |    M    |   
-| Ver mi cuenta            |   M   |    M    |    L    |   
-| Ver mensajes             |   L   |    M    |    M    |   
-| Aplicar filtros de búsqueda    |   H   |    L   |    L    |    
-| Cambiar datos perfil     |   L   |    M    |    M    |   
-| Buscar experiencia       |   H   |    L    |         |   
-| Pagar                    |   H   |    L    |         |    
-| Seleccionar experiencia  |   M   |    L    |        |   
-| Rechazar reserva         |       |    L    |    M    |    
-| Ver perfil de Host       |   M   |    L    |         |   
-| Solicitar reserva        |   M   |    L    |         |    
-| Crear cuenta             |   L   |    L    |    L    |  
-| Cambiar idioma/divisas   |   L   |    L    |    L    |   
-| Convertirse en anfitrión |       |    L    |    L    |   
-| Cancelar reserva         |   L   |    L    |         |    
-| Valorar experiencia      |   L   |    L    |         | 
-| Anular reserva           |       |    L    |    L    |   
+Para realizar el Sitemap se han reordenado las actividades a modo de _card sorting_ hasta que el diseño fuera sencillo y fácil de manejar.
 
-**Sitemap**
-
-![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/sitemap.jpg)
+Enlace a la práctica: 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
