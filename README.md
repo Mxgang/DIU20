@@ -70,6 +70,7 @@ Enlace al documento: [Usability Review](https://github.com/Mxgang/DIU20/blob/mas
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+Las cosas
 
 | Interesante/Relevante  | Críticas constructivas  | Preguntas a partir de la experiencia | Nuevas ideas |
 | :---        |  :----:   | :----: | :----: |
@@ -90,45 +91,17 @@ Para realizar el Sitemap:
 2. Se han reordenado las actividades a modo de _card sorting_ hasta que el diseño fuera sencillo y fácil de manejar.
 3. Cambiamos el color de algunas actividades si son obligatorias, opcionales, etc.
 
-Enlace a la práctica: [Práctica 2] ()
+Enlace a la práctica: [Práctica 2](https://github.com/Mxgang/DIU20/tree/master/P2)
 
-Enlace a sitemap: [Sitemap]()
+Enlace a sitemap: [Sitemap](https://github.com/Mxgang/DIU20/blob/master/P2/sitemap.jpg)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-| **Label**  |  **Scope Note**   |   
-| :----:  | :----: |
-| Página principal        |   Página de inicio del sitio web, contiene los elemento comunes a las demás páginas (header, footer)   |   
-| Cambiar idioma/divisas            |   Botón que permite cambiar el idioma de la página y la divisa a la hora de calcular precios   |
-| Mi perfil | Botón que permite acceder a la información de tu perfil | 
-| Mi cuenta | Botón que permite acceder a la información de tus credenciales de acceso |  
-| Buscar experiencia | Este botón te permite hacer una búsqueda de una experiencia dados unos párametros |  
-| Acerca de | Botón que muestra la información del sitio, aviso legal, términos y condiciones y política de privacidad |  
-| Ayuda | Botón para poder contactar con el servicio de atención al cliente y poder resolver dudas |  
-| **Conviértete en anfitrión** |  Acción condicional: solo se permite su uso a usuarios no anfitriones. Con este botón siendo usuario puedes convertirte en anfitrión y crear experiencias |  
-| Iniciar sesión | Botón que permite iniciar sesión introduciendo nombre de usuario o email y contraseña, además si te has olvidado la contraseña habrá un botón estilo "¿has olvidado la contraseña?" |
-| Crear cuenta | Botón para crear una cuenta nueva introduciendo una serie de datos de un formulario | 
-| Redes sociales | Botones para acceder a las redes sociales del sitio como Facebook, Twitter, Instagram entre otros |  
-| **Crear experiencia**  | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite crear una experiencia siendo anfitrión, dando una serie de datos de un formulario |  
-| Cambiar datos perfil  | Sección que permite cambiar información de tu perfil |  
-| Ver mis experiencias | Página que contiene todas las experiencias que has realizado  |  
-| **Ver experiencias creadas** | Acción condicional: solo se permite su uso a usuarios anfitriones. Página que permite ver las experiencias creadas por un anfitrión|  
-| Ver mis reservas | Página donde puedes ver las reservas de experiencias que tienes |
-| Mensajes | Página que contiene los mensajes enviados y recibidos con otros usuarios de la plataforma |  
-| Cambiar datos cuenta | Sección de página que permite modificar los cambios de cuenta del usuario con un formulario y un botón de guardado |  
-| **Aplicar filtros de búsqueda** | Acción opcional: se permite su uso para obtener resultados más específicos. Conjuntos de filtros **opcionales** para realizar la búsqueda de una experiencia. De entre ellos destacamos: fecha, número de invitados, precio, reserva instantánea, tipo de evento, tipo de cocina, idioma del anfitrión, lugar y régimen alimenticio.  | 
-| Filtros de reservas | Conjunto de filtros para encontrar reservas según si están pagados, confirmados, rechazados... |  
-| Ver datos de experiencia | Página que muestra todos los datos relevantes de una experiencia como su nombre, fecha, anfitrión, descripción, un botón para realizar una reserva, etc.|  
-| Ver perfil anfitrión | Página que muestra los datos públicos de un usuario anfitrión | 
-| Valorar experiencia | Formulario que permite valorar la calidad de la experiencia culinaria realizada |  
-| **Rechazar reserva** | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite rechazar la petición de reserva de un usuario que haya realizado una reserva en la experiencia organizada por el anfitrión   |  
-| **Aceptar reserva** | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite aceptar la reserva de un usuario a un evento organizado por el anfitrión |  
-| **Anular reserva** | Acción condicional: solo se permite su uso a usuarios anfitriones. Botón que permite anular una reserva en caso de que al anfitrión le haya surgido un problema que le impida organizar la experiencia |  
-| Pagar | Formulario que permite la transacción del pago |  
-| **Cancelar reserva** | Acción condicional: solo se permite su uso a usuarios que han solicitado reserva en una experiencia. Botón que permite cancelar la reserva de una experiencia si el usuario decide retractarse o no puede ir al evento |  
-| Solicitar reserva | Botón que permite solicitar una reserva en una experiencia culinaria |  
-| Escribir mensaje | Formulario que permite comunicar un mensaje a un usuario de la plataforma | 
+Para la obtención del _Labelling_ se ha partido del conjunto de actividades necesarias para nuestra aplicación, descritas en la Práctica 2. Las actividades condicionales que solo pueden realizar ciertos usuarios o actividades opcionales como filtros de búsqueda se han remarcado.
+
+Enlace a la Práctica 2: [Labelling](https://github.com/Mxgang/DIU20/tree/master/P2)
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -136,26 +109,16 @@ Enlace a sitemap: [Sitemap]()
 
 Bocetos realizados a partir de las funcionaldiades más importantes del Task Flow:
 
-  1. Ver datos de experiencia.  
-    
-  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/datos_experiencia.jpg)
+  1. ![Ver datos de experiencia](https://github.com/Mxgang/DIU20/blob/master/P2/datos_experiencia.jpg)    
   
-  
-  2. Ver mis experiencias.  
+  2. ![Ver mis experiencias](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mis_experiencias.jpg)  
      
-  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mis_experiencias.jpg)
-  
-  3. Ver mi perfil.   
-      
-  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mi_perfil.jpg)
+  3. ![Ver mi perfil](https://github.com/Mxgang/DIU20/blob/master/P2/ver_mi_perfil.jpg).     
 
-  4. Iniciar sesión.  
-     
-  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/iniciar_sesion.jpg)
+  4. ![Iniciar sesión](https://github.com/Mxgang/DIU20/blob/master/P2/iniciar_sesion.jpg).   
   
-  5. Ver mis reservas.  
+  5. ![Ver mis reservas](https://github.com/Mxgang/DIU20/blob/master/P2/mis_reservas.jpg).  
    
-  ![Método UX](https://github.com/Mxgang/DIU20/blob/master/P2/mis_reservas.jpg)
 
 
 ## Paso 3. Mi equipo UX-Case Study 
@@ -173,8 +136,10 @@ Enlace al análisis completo: https://github.com/Mxgang/DIU20/blob/master/P3/rea
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+Hemos diseñado un logotipo mediante la aplicación web _Logogenie_, se ha creado un logotipo similar al que tenía la aplicación **Eatwith**, tenemos dos opciones, una con el nombre de la aplicación y otra sin el nombre:
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Logotipo_Eatwith](img/logotipo.jpg)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -195,7 +160,9 @@ En cuanto a los colores utilizaremos colores cálidos y claros similares a los d
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Para la realización del vídeo se ha realziado una pequeña presentación para que sea más dinámico.
+
+Enlace al vídeo: [Vídeo]()
 
 ## Paso 4. Evaluación 
 
