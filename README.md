@@ -70,7 +70,6 @@ Enlace al documento: [Usability Review](https://github.com/Mxgang/DIU20/blob/mas
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-Las cosas
 
 | Interesante/Relevante  | Críticas constructivas  | Preguntas a partir de la experiencia | Nuevas ideas |
 | :---        |  :----:   | :----: | :----: |
