@@ -183,7 +183,7 @@ En el diseño hemos utilziado técnicas diferentes, mientras que los diseñadore
 En nuestra opinión el uso del feature prioritisation es una buena técnica no solo para realizar el diseño, si no también para realizar una buena gestión del proyecto ya que distingue las tareas que son esenciales y que requieren un mayor esfuerzo. En el caso de tener que desarrollar nuestra aplicació utilizaríamos un _feature prioritisation_.
 Por último después de diseñar nuestra aplicación en _hi-fi_ y de desarrollarla, realizaríamos un test de uso al igual que utilizan los desarrolladores de MuseMap para asegurarnos de que su uso es fácil e intuitivo.
 
-Enlace al análisis completo: https://github.com/Mxgang/DIU20/tree/master/P3
+Enlace al análisis completo: https://github.com/Mxgang/DIU20/blob/master/P3/readme.md
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
