@@ -19,7 +19,8 @@ Descripcion y hoja de valoración.
 
 ## User Testing
 
-	Describe la experiencia 1
+Experiencia 1; DIU1.HORAPI - Viamos!
+Si Anabel intentara realizar un viaje y el acompañante en el chat empieza a acosarla, Anabel no tendría manera ni de reportar la conversación, ni bloquear a dicha persona, ni de contactar con el soporte de la APP.
 
 	Describe la experiencia 2
 
