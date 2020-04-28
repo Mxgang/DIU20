@@ -5,7 +5,7 @@ Grupo: DIU3.Crescendum.  Curso: 2019/20
 
 Proyecto: SweetIt!
 
-Descripción: El objetivo de nuestro producto es proporcionar una experiencia culinaria única y especial con el que puedes compartirla con más personas.
+Descripción: Con esta aplicación podrás aprender a cocinar en vivo, degustar comidas de chefs y hacer tours de comida típica de una ciudad, todo esto podrás hacerlo solo o acompañado.
 
 Logotipo: 
 
