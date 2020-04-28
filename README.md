@@ -7,7 +7,9 @@ Proyecto: SweetIt!
 
 Descripción: El objetivo de nuestro producto es proporcionar una experiencia culinaria única y especial con el que puedes compartirla con más personas.
 
-Logotipo: ![Logotipo_Eatwith](img/logotipo.jpg)
+Logotipo: 
+
+![Logotipo_Eatwith](img/logotipo.jpg)
 
 Miembros
  * :bust_in_silhouette:   Javier Martín Gómez   :octocat:     
