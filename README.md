@@ -3,11 +3,11 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU3.Crescendum.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: SweetIt!
 
-Descripción: 
+Descripción: El objetivo de nuestro producto es proporcionar una experiencia culinaria única y especial con el que puedes compartirla con más personas.
 
-Logotipo: 
+Logotipo: ![Logotipo_Eatwith](img/logotipo.jpg)
 
 Miembros
  * :bust_in_silhouette:   Javier Martín Gómez   :octocat:     
