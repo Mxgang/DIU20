@@ -24,6 +24,7 @@ Si Anabel intentara realizar un viaje y el acompañante en el chat empieza a aco
 
 Experiencia 2; DIU2.M&J - Airbnb
 _Dado que ellos no han realizado ningún diseño, solamente han analizado una app ya existente (Airbnb), haremos el User Testing de dicha app._
+
 Si Darío intentase reservar una habitación por 1 día debido a motivos de trabajo, tendría dificultades para llegar ya que la app no tiene una acción en el mapa que permita saber cómo llegar al destino.
 
 
