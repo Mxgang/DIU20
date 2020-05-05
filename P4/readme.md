@@ -22,7 +22,10 @@ Descripcion y hoja de valoración.
 Experiencia 1; DIU1.HORAPI - Viamos!
 Si Anabel intentara realizar un viaje y el acompañante en el chat empieza a acosarla, Anabel no tendría manera ni de reportar la conversación, ni bloquear a dicha persona, ni de contactar con el soporte de la APP.
 
-	Describe la experiencia 2
+Experiencia 2; DIU2.M&J - Airbnb
+_Dado que ellos no han realizado ningún diseño, solamente han analizado una app ya existente (Airbnb), haremos el User Testing de dicha app._
+Si Darío intentase reservar una habitación por 1 día debido a motivos de trabajo, tendría dificultades para llegar ya que la app no tiene una acción en el mapa que permita saber cómo llegar al destino.
+
 
 	Describe la experiencia 3
 
