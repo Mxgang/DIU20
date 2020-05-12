@@ -1,4 +1,4 @@
-# DIU - Practica 4, entregables
+# DIU - Practica 4
 
 Los documentos están subidos en formato xls ya que en PDF se descuadra todo y no se ve bien, hay que descargar los archivos para poder verlos.
 
