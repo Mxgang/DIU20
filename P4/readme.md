@@ -89,8 +89,11 @@ Si Anabel quisiese realizar una experiencia culinaria donde solo hubiese mujeres
 Ha sido una buena experiencia analizar los distintos casos de cada grupo de prácticas y ver de qué manera han enfocado su proyecto. El problema es que hemos visto muchos errores graves en todas las prácticas y sobre todo en algunos casos hay README.md vacíos y cosas incompletas.
 
 Valoraciones finales:
+
 Caso 1: 51/100
+
 Caso 2: 28/100
+
 Caso 3: 61/100
 
 En definitiva, hemos aprendido mucho a analizar los proyectos de otras personas y poder sacar puntos fuertes y débiles del mismo.
