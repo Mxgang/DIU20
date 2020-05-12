@@ -91,7 +91,9 @@ Ha sido una buena experiencia analizar los distintos casos de cada grupo de prá
 Valoraciones finales:
 
 Caso 1: 51/100
+
 Caso 2: 28/100
+
 Caso 3: 61/100
 
 En definitiva, hemos aprendido mucho a analizar los proyectos de otras personas y poder sacar puntos fuertes y débiles del mismo.
