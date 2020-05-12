@@ -5,25 +5,43 @@ Los documentos están subidos en formato xls ya que en PDF se descuadra todo y n
 
 ## Caso 1
 
-Descripción: El equipo es HORAPI, compuesto por los miembros Diego García Aurelio y Miguel Ángel Mena Barrera que han diseñado la apliación Viamos! la cual es una app para realizar viajes en compañía con otras personas.
+Descripción: El equipo es HORAPI, que han diseñado la apliación Viamos! la cual es una app para realizar viajes en compañía con otras personas.
 
 Enlace al documento: [DIU1.HORAPI](https://github.com/Mxgang/DIU20/blob/master/P4/DIU1.HORAPI_review.xls)  
-Puntos fuertes:
-Puntos débiles:
+
+**Puntos fuertes:**
++Los patrones UI están muy bien detallados y explicados correctamente.
++El logotipo está muy bien hecho y corresponde con el diseño de la aplicación.
++Propuesta de valor bien detallada.
+
+**Puntos débiles:**
++Personas ficticias con descripciones muy pobres.
++Journey Map no presenta ningún problema de diseño de la aplicación.
++Pocas acciones en el diseño
 
 ## Caso 2
 
-Descripción:
+Descripción: El equipo es M&J, no han diseñado nada, solamente han analizado la aplicación Airbnb la cual puedes buscar alojamientos en el sitio que quieras.
 Enlace al documento: [DIU2.M&J](https://github.com/Mxgang/DIU20/blob/master/P4/DIU2.M&J_review.xls) 
-Puntos fuertes:
-Puntos débiles:
+
+**Puntos fuertes:**
+
+**Puntos débiles:**
 
 ## Caso 3
 
-Descripción:
-Enlace al documento: [DIU1.Kimoa](https://github.com/Mxgang/DIU20/blob/master/P4/DIU3.Kimoa_review.xls)   
-Puntos fuertes:
-Puntos débiles:
+Descripción: El equipo es Kimoa, han diseñado una aplicación sin nombre basada en EatWith la cual puedes aprender a cocinar, hacer tours de comida o asistir a experiencias culinarias.
+
+Enlace al documento: [DIU1.Kimoa](https://github.com/Mxgang/DIU20/blob/master/P4/DIU3.Kimoa_review.xls)  
+
+**Puntos fuertes:**
++Competitive Analysis bien detallado entre las aplicaciones que han comparado y elegido.
++Malla receptora con las ideas bien planteadas
++Los patrones UI están muy bien detallados y explicados correctamente.
+**Puntos débiles:**
++Descripción pobre en la primera persona ficticia, es muy genérica.
++Sitemap muy sobrecargada
++No tienen logotipo
 
 ## User Testing
 
