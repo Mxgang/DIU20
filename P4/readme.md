@@ -19,20 +19,32 @@ Enlace al documento: [DIU1.HORAPI](https://github.com/Mxgang/DIU20/blob/master/P
 
 **Puntos débiles:**
 
-+Personas ficticias con descripciones muy pobres.
+-Personas ficticias con descripciones muy pobres.
 
-+Journey Map no presenta ningún problema de diseño de la aplicación.
+-Journey Map no presenta ningún problema de diseño de la aplicación.
 
-+Pocas acciones en el diseño
+-Pocas acciones en el diseño
 
 ## Caso 2
 
-Descripción: El equipo es M&J, no han diseñado nada, solamente han analizado la aplicación Airbnb la cual puedes buscar alojamientos en el sitio que quieras.
+Descripción: El equipo es M&J, han realizado una aplicación para alquiler inmobiliario. La aplicación se centra en alquiler de habitaciones, propiedades completas o incluso experiencias como tours o shows.
 Enlace al documento: [DIU2.M&J](https://github.com/Mxgang/DIU20/blob/master/P4/DIU2.M&J_review.xls) 
 
 **Puntos fuertes:**
 
++Los guidelines utilizados están muy bien detallados.
+
++El sitemap es simple e intuitivo para una aplicación android.
+
++Realizan un buen análisis sobre los objetivos de los usuarios y las necesidades que requieren de una aplicación como la que están diseñando.
+
 **Puntos débiles:**
+
+-La información proporcionada en el repositorio está mal ordenada y no ofrecen mucho detalle.
+
+-No hay propuesta de valor ni diseño asociado a una.
+
+-No han creado una aplicación propia, si no que han utilizado una aplicación ya existente.
 
 ## Caso 3
 
@@ -50,11 +62,12 @@ Enlace al documento: [DIU1.Kimoa](https://github.com/Mxgang/DIU20/blob/master/P4
 
 **Puntos débiles:**
 
-+Descripción pobre en la primera persona ficticia, es muy genérica.
+-Descripción pobre en la primera persona ficticia, es muy genérica.
 
-+Sitemap muy sobrecargada.
+-Sitemap muy sobrecargada.
 
-+No tienen logotipo.
+-No tienen logotipo.
+
 
 ## User Testing
 
@@ -72,3 +85,13 @@ Si Anabel quisiese realizar una experiencia culinaria donde solo hubiese mujeres
 
 
 ## Conclusiones
+
+Ha sido una buena experiencia analizar los distintos casos de cada grupo de prácticas y ver de qué manera han enfocado su proyecto. El problema es que hemos visto muchos errores graves en todas las prácticas y sobre todo en algunos casos hay README.md vacíos y cosas incompletas.
+
+Valoraciones finales:
+Caso 1: 51/100
+Caso 2: 28/100
+Caso 3: 61/100
+
+En definitiva, hemos aprendido mucho a analizar los proyectos de otras personas y poder sacar puntos fuertes y débiles del mismo.
+También hemos aprendido a evaluar de una forma objetiva el trabajo propio de nuestro proyecto y poder encontrar fallos y mejoras de diseño.
