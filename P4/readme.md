@@ -10,11 +10,13 @@ Descripción: El equipo es HORAPI, que han diseñado la apliación Viamos! la cu
 Enlace al documento: [DIU1.HORAPI](https://github.com/Mxgang/DIU20/blob/master/P4/DIU1.HORAPI_review.xls)  
 
 **Puntos fuertes:**
+
 +Los patrones UI están muy bien detallados y explicados correctamente.
 +El logotipo está muy bien hecho y corresponde con el diseño de la aplicación.
 +Propuesta de valor bien detallada.
 
 **Puntos débiles:**
+
 +Personas ficticias con descripciones muy pobres.
 +Journey Map no presenta ningún problema de diseño de la aplicación.
 +Pocas acciones en el diseño
@@ -35,10 +37,13 @@ Descripción: El equipo es Kimoa, han diseñado una aplicación sin nombre basad
 Enlace al documento: [DIU1.Kimoa](https://github.com/Mxgang/DIU20/blob/master/P4/DIU3.Kimoa_review.xls)  
 
 **Puntos fuertes:**
+
 +Competitive Analysis bien detallado entre las aplicaciones que han comparado y elegido.
 +Malla receptora con las ideas bien planteadas
 +Los patrones UI están muy bien detallados y explicados correctamente.
+
 **Puntos débiles:**
+
 +Descripción pobre en la primera persona ficticia, es muy genérica.
 +Sitemap muy sobrecargada
 +No tienen logotipo
