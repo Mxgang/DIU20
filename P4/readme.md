@@ -5,17 +5,17 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 ## Caso 1
 
-Descripcion y hoja de valoración.    
+Enlace al documento: [DIU1.HORAPI](https://github.com/Mxgang/DIU20/blob/master/P4/DIU1.HORAPI_review.xls)  
 
 
 ## Caso 2
 
-Descripcion y hoja de valoración.  
+Enlace al documento: [DIU2.M&J](https://github.com/Mxgang/DIU20/blob/master/P4/DIU2.M&J_review.xls) 
 
 
 ## Caso 3
 
-Descripcion y hoja de valoración.   
+Enlace al documento: [DIU1.Kimoa](https://github.com/Mxgang/DIU20/blob/master/P4/DIU3.Kimoa_review.xls)   
 
 ## User Testing
 
@@ -28,7 +28,7 @@ _Dado que ellos no han realizado ningún diseño, solamente han analizado una ap
 Si Darío intentase reservar una habitación por 1 día debido a motivos de trabajo, tendría dificultades para llegar ya que la app no tiene una acción en el mapa que permita saber cómo llegar al destino.
 
 
-	Describe la experiencia 3
+Experiencia 3; DIU3.Kimoa - EatWith
 
 
 ## Conclusiones
