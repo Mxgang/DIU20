@@ -171,43 +171,57 @@ En cuanto a los colores utilizaremos colores cálidos y claros similares a los d
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
+## Caso 1
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+Descripción: El equipo es HORAPI, que han diseñado la apliación Viamos! la cual es una app para realizar viajes en compañía con otras personas.
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
+Repositorio: https://github.com/diegogaraur/DIU20
+
+## Caso 2
+
+Descripción: El equipo es M&J, han realizado una aplicación para alquiler inmobiliario. La aplicación se centra en alquiler de habitaciones, propiedades completas o incluso experiencias como tours o shows.
+
+Repositorio: https://github.com/MarioGenol/DIU20
+
+## Caso 3
+
+Descripción: El equipo es Kimoa, han diseñado una aplicación sin nombre basada en EatWith la cual puedes aprender a cocinar, hacer tours de comida o asistir a experiencias culinarias.
+
+Repositorio: https://github.com/Bagamo/DIUPRACTICAS
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+**Experiencia 1; DIU1.HORAPI - Viamos!**
+Si Anabel intentara realizar un viaje y el acompañante en el chat empieza a acosarla, Anabel no tendría manera ni de reportar la conversación, ni bloquear a dicha persona, ni de contactar con el soporte de la APP.
+
+**Experiencia 2; DIU2.M&J - Airbnb**
+_Dado que ellos no han realizado ningún diseño, solamente han analizado una app ya existente (Airbnb), haremos el User Testing de dicha app._
+
+Si Darío intentase reservar una habitación por 1 día debido a motivos de trabajo, tendría dificultades para llegar ya que la app no tiene una acción en el mapa que permita saber cómo llegar al destino.
+
+
+**Experiencia 3; DIU3.Kimoa - EatWith**
+Si Anabel quisiese realizar una experiencia culinaria donde solo hubiese mujeres no podría ya que no hay manera de saber qué personas han reservado dicha experiencia ni hay filtros para ello.
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
+Ha sido una buena experiencia analizar los distintos casos de cada grupo de prácticas y ver de qué manera han enfocado su proyecto. El problema es que hemos visto muchos errores graves en todas las prácticas y sobre todo en algunos casos hay README.md vacíos y cosas incompletas.
 
->>> Valoración personal 
+Valoraciones finales:
 
+Caso 1: 51/100
 
+Caso 2: 28/100
 
-## Paso 5. Evaluación de Accesibilidad  
+Caso 3: 61/100
 
+En definitiva, hemos aprendido mucho a analizar los proyectos de otras personas y poder sacar puntos fuertes y débiles del mismo.
+También hemos aprendido a evaluar de una forma objetiva el trabajo propio de nuestro proyecto y poder encontrar fallos y mejoras de diseño.
 
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
-
-## Conclusión / Valoración de las prácticas
-
-
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
